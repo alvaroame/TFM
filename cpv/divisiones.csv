@@ -1,0 +1,46 @@
+division,nombre
+3000000,"Productos de la agricultura, ganadería, pesca, silvicultura y productos afines"
+9000000,"Derivados del petróleo, combustibles, electricidad y otras fuentes de energía"
+14000000,"Productos de la minería, de metales de base y productos afines"
+15000000,"Alimentos, bebidas, tabaco y productos afines"
+16000000,Maquinaria agrícola
+18000000,"Prendas de vestir, calzado, artículos de viaje y accesorios"
+19000000,"Piel y textiles, materiales de plástico y caucho"
+22000000,Impresos y productos relacionados
+24000000,Productos químicos
+30000000,"Máquinas, equipo y artículos de oficina y de informática, excepto mobiliario y paquetes de software"
+31000000,"Máquinas, aparatos, equipo y productos consumibles eléctricos; iluminación"
+32000000,"Equipos de radio, televisión, comunicaciones y telecomunicaciones y equipos conexos"
+33000000,"Equipamiento y artículos médicos, farmacéuticos y de higiene personal"
+34000000,Equipos de transporte y productos auxiliares
+35000000,"Equipo de seguridad, extinción de incendios, policía y defensa"
+37000000,"Instrumentos musicales, artículos deportivos, juegos, juguetes, artículos de artesanía, materiales artísticos y accesorios"
+38000000,"Equipo de laboratorio, óptico y de precisión (excepto gafas)"
+39000000,"Mobiliario (incluido el de oficina), complementos de mobiliario, aparatos electrodomésticos (excluida la iluminación) y productos de limpieza"
+41000000,Agua recogida y depurada
+42000000,Maquinaria industrial
+43000000,Maquinaria para la minería y la explotación de canteras y equipo de construcción
+44000000,Estructuras y materiales de construcción; productos auxiliares para la construcción (excepto aparatos eléctricos)
+45000000,Trabajos de construcción
+48000000,Paquetes de software y sistemas de información
+50000000,Servicios de reparación y mantenimiento
+51000000,Servicios de instalación (excepto software)
+55000000,Servicios comerciales al por menor de hostelería y restauración
+60000000,Servicios de transporte (excluido el transporte de residuos)
+63000000,Servicios de transporte complementarios y auxiliares; servicios de agencias de viajes
+64000000,Servicios de correos y telecomunicaciones
+65000000,Servicios públicos
+66000000,Servicios financieros y de seguros
+70000000,Servicios inmobiliarios
+71000000,"Servicios de arquitectura, construcción, ingeniería e inspección"
+72000000,"Servicios TI: consultoría, desarrollo de software, Internet y apoyo"
+73000000,Servicios de investigación y desarrollo y servicios de consultoría conexos
+75000000,"Servicios de administración pública, defensa y servicios de seguridad social"
+76000000,Servicios relacionados con la industria del gas y del petróleo
+77000000,"Servicios agrícolas, forestales, hortícolas, acuícolas y apícolas"
+79000000,"Servicios a empresas: legislación, mercadotecnia, asesoría, selección de personal, imprenta y seguridad"
+80000000,Servicios de enseñanza y formación
+85000000,Servicios de salud y asistencia social
+90000000,"Servicios de alcantarillado, basura, limpieza y medio ambiente"
+92000000,"Servicios de esparcimiento, culturales y deportivos"
+98000000,"Otros servicios comunitarios, sociales o personales"

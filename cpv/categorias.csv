@@ -1,0 +1,2380 @@
+categoria,clase,nombre
+3111000,3110000,Semillas
+3112000,3110000,Tabaco sin elaborar
+3113000,3110000,Plantas utilizadas para la fabricación de azúcar
+3114000,3110000,Paja y plantas forrajeras
+3115000,3110000,Materias vegetales en bruto
+3116000,3110000,Caucho y látex naturales y productos afines
+3117000,3110000,Plantas utilizadas para usos específicos
+3121000,3120000,Productos de horticultura
+3131000,3130000,Cultivos de plantas para bebidas
+3132000,3130000,Especias no manufacturadas
+3141000,3140000,Semen de toro
+3142000,3140000,Productos de origen animal
+3143000,3140000,Productos de cultivo mixto
+3144000,3140000,Productos para la agricultura
+3211000,3210000,Cereales
+3212000,3210000,Patatas y legumbres secas
+3221000,3220000,Hortalizas
+3222000,3220000,Frutas y frutos de cáscara
+3311000,3310000,Pescado
+3312000,3310000,Crustáceos
+3313000,3310000,Productos acuáticos
+3321000,3320000,Ganado bovino
+3322000,3320000,Ganado no bovino
+3323000,3320000,Cerdos
+3324000,3320000,Aves de corral vivas
+3325000,3320000,Animales pequeños
+3331000,3330000,Leche fresca de oveja y de cabra
+3332000,3330000,Lana y pelo de animales
+3333000,3330000,Leche fresca de vaca
+3341000,3340000,Marcas auriculares para ganado bovino
+3411000,3410000,Madera de coníferas
+3412000,3410000,Madera de especies tropicales
+3413000,3410000,Madera para calefacción
+3414000,3410000,Madera en bruto
+3415000,3410000,Madera blanda
+3416000,3410000,Residuos de madera
+3417000,3410000,Madera de desecho
+3418000,3410000,Troncos
+3419000,3410000,Madera de construcción
+3421000,3420000,Bálsamos
+3422000,3420000,Laca
+3431000,3430000,Corcho natural
+3432000,3430000,Artículos de cestería
+3441000,3440000,"Plantas, hierbas, musgos o líquenes para uso ornamental"
+3451000,3450000,Plantas
+3452000,3450000,Árboles
+3461000,3460000,Pasta de madera
+9111000,9110000,Carbón y combustibles derivados del carbón
+9112000,9110000,Lignito y turba
+9113000,9110000,Coque
+9121000,9120000,"Gas de hulla, gas de red o gases similares"
+9122000,9120000,Propano y butano
+9123000,9120000,Gas natural
+9131000,9130000,Queroseno de aviación
+9132000,9130000,Gasolina
+9133000,9130000,Gas licuado del petróleo (GLP)
+9134000,9130000,Gasóleos
+9135000,9130000,Aceites combustibles
+9211000,9210000,Aceites lubricantes y agentes lubricantes
+9221000,9220000,Vaselina y ceras de petróleo
+9222000,9220000,Gasolinas especiales
+9241000,9240000,Esquistos bituminosos o petrolíferos
+9242000,9240000,Productos derivados del carbón
+9321000,9320000,Agua caliente
+9322000,9320000,Vapor
+9323000,9320000,Calefacción urbana
+9324000,9320000,Calefacción a larga distancia
+9331000,9330000,Placas solares
+9332000,9330000,Instalación solar
+9341000,9340000,Uranio
+9342000,9340000,Plutonio
+9343000,9340000,Materiales radiactivos
+9344000,9340000,Radioisótopos
+14211000,14210000,Arena
+14212000,14210000,"Gránulos, gravilla, polvo de piedra, guijarros, grava, piedras partidas y machacadas, mezclas de piedra, mezclas arena-grava y demás agregados"
+14213000,14210000,"Macadán, macadán bituminoso y arenas bituminosas"
+14221000,14220000,Arcilla
+14222000,14220000,Caolín
+14311000,14310000,"Calcio natural, fosfato aluminocálcico y sales de potasio natural en bruto"
+14312000,14310000,Piritas de hierro
+14521000,14520000,Piedras preciosas y semipreciosas
+14522000,14520000,Diamantes industriales; piedra pómez; esmeril; y otros abrasivos naturales
+14523000,14520000,"Minerales conexos, metales preciosos y productos afines"
+14611000,14610000,Minerales de hierro
+14612000,14610000,Minerales metálicos no ferrosos
+14613000,14610000,Minerales de uranio y torio
+14614000,14610000,Minerales diversos
+14621000,14620000,Ferroaleaciones
+14622000,14620000,Acero
+14711000,14710000,Hierro
+14712000,14710000,Plomo
+14713000,14710000,Zinc
+14714000,14710000,Estaño
+14715000,14710000,Cobre
+14721000,14720000,Aluminio
+14722000,14720000,Níquel
+14723000,14720000,Escandio
+14724000,14720000,Titanio
+14725000,14720000,Vanadio
+14731000,14730000,Cromo
+14732000,14730000,Manganeso
+14733000,14730000,Cobalto
+14734000,14730000,Itrio
+14735000,14730000,Circonio
+14741000,14740000,Molibdeno
+14742000,14740000,Tecnecio
+14743000,14740000,Rutenio
+14744000,14740000,Rodio
+14751000,14750000,Cadmio
+14752000,14750000,Lutecio
+14753000,14750000,Hafnio
+14754000,14750000,Tantalio
+14755000,14750000,Wolframio
+14761000,14760000,Iridio
+14762000,14760000,Galio
+14763000,14760000,Indio
+14764000,14760000,Talio
+14765000,14760000,Bario
+14771000,14770000,Cesio
+14772000,14770000,Estroncio
+14773000,14770000,Rubidio
+14774000,14770000,Calcio
+14781000,14780000,Potasio
+14782000,14780000,Magnesio
+14783000,14780000,Sodio
+14784000,14780000,Litio
+14791000,14790000,Niobio
+14792000,14790000,Osmio
+14793000,14790000,Renio
+14794000,14790000,Paladio
+14811000,14810000,"Muelas, piedras y ruedas de amolar"
+14812000,14810000,Abrasivos en polvo o en grano
+14813000,14810000,Corindón artificial
+14814000,14810000,Grafito artificial
+15111000,15110000,Carne de bovino
+15112000,15110000,Aves de corral
+15113000,15110000,Carne de cerdo
+15114000,15110000,Despojos
+15115000,15110000,Cordero y carnero
+15117000,15110000,Carne de cabra
+15118000,15110000,"Carne de caballo, asno, mulo o burdégano"
+15119000,15110000,Carnes diversas
+15131000,15130000,Conservas y preparaciones cárnicas
+15211000,15210000,Filetes de pescado
+15212000,15210000,Huevas
+15213000,15210000,Hígados de pescado
+15221000,15220000,Pescado congelado
+15229000,15220000,Productos congelados de pescados
+15231000,15230000,Pescado seco
+15232000,15230000,Pescado salado
+15233000,15230000,Pescado en salmuera
+15234000,15230000,Pescado ahumado
+15235000,15230000,Conservas de pescado
+15241000,15240000,"Pescado empanado, en conserva o en lata"
+15242000,15240000,Platos de pescado preparados
+15243000,15240000,Preparaciones a base de pescado
+15244000,15240000,Caviar y huevos de peces
+15251000,15250000,Crustáceos congelados
+15252000,15250000,Crustáceos preparados o en conserva
+15253000,15250000,Productos a base de moluscos
+15311000,15310000,Patatas congeladas
+15312000,15310000,Productos a base de patatas
+15313000,15310000,Patatas elaboradas
+15321000,15320000,Zumos de frutas
+15322000,15320000,Zumos de hortalizas
+15331000,15330000,Legumbres y hortalizas elaboradas
+15332000,15330000,Frutas y frutos de cáscara elaborados
+15333000,15330000,Subproductos de hortalizas
+15411000,15410000,Aceites animales o vegetales
+15412000,15410000,Grasas
+15413000,15410000,Residuos sólidos de grasas o aceites vegetales
+15421000,15420000,Aceites refinados
+15422000,15420000,Grasas refinadas
+15423000,15420000,Grasas o aceites hidrogenados o esterificados
+15424000,15420000,Ceras vegetales
+15431000,15430000,Margarina y preparaciones similares
+15511000,15510000,Leche
+15512000,15510000,Nata (crema)
+15541000,15540000,Queso de mesa
+15542000,15540000,Queso fresco
+15543000,15540000,"Queso rallado, en polvo, de pasta azul y otros quesos"
+15544000,15540000,Queso de pasta dura
+15545000,15540000,Quesos para untar
+15551000,15550000,Yogur y otros productos lácteos fermentados
+15552000,15550000,Caseína
+15553000,15550000,Lactosa o jarabe de lactosa
+15554000,15550000,Suero de leche
+15555000,15550000,Helados y productos similares
+15611000,15610000,Arroz descascarillado
+15612000,15610000,Harina de cereales o legumbres y productos conexos
+15613000,15610000,Productos a base de granos de cereales
+15614000,15610000,Arroz elaborado
+15615000,15610000,Salvado
+15621000,15620000,Aceite de maíz
+15622000,15620000,Glucosa y productos a base de glucosa; fructosa y productos a base de fructosa
+15623000,15620000,Almidones y féculas
+15624000,15620000,Tapioca
+15625000,15620000,Sémola
+15626000,15620000,Natillas en polvo
+15711000,15710000,Alimentos para peces
+15712000,15710000,Pienso seco
+15713000,15710000,Alimentos para animales domésticos
+15811000,15810000,Productos a base de pan
+15812000,15810000,Pasteles y productos de pastelería
+15813000,15810000,Productos para el desayuno
+15821000,15820000,Productos de pan tostado y de pastelería
+15831000,15830000,Azúcar
+15832000,15830000,Residuos de la industria azucarera
+15833000,15830000,Productos del azúcar
+15841000,15840000,Cacao
+15842000,15840000,Chocolate y artículos de confitería
+15851000,15850000,Productos farináceos
+15861000,15860000,Café
+15862000,15860000,Sucedáneos del café
+15863000,15860000,Té
+15864000,15860000,Preparaciones de té o de mate
+15865000,15860000,Infusiones de hierbas
+15871000,15870000,Vinagre; salsas; condimentos compuestos; harina y polvo de mostaza; mostaza preparada
+15872000,15870000,Hierbas y especias
+15881000,15880000,Preparaciones alimenticias homogeneizadas
+15882000,15880000,Productos dietéticos
+15884000,15880000,Alimentos infantiles
+15891000,15890000,Sopas y caldos
+15892000,15890000,"Jugos y extractos vegetales, sustancias pépticas y espesantes"
+15893000,15890000,Productos secos
+15894000,15890000,Productos alimenticios elaborados
+15895000,15890000,Productos para comida rápida
+15896000,15890000,Productos congelados
+15897000,15890000,Productos enlatados y raciones de campaña
+15898000,15890000,Levadura
+15899000,15890000,Polvos para hornear
+15911000,15910000,Bebidas espirituosas
+15931000,15930000,Vinos no aromatizados
+15932000,15930000,Heces de vino
+15941000,15940000,Sidra
+15942000,15940000,Vinos a base de fruta
+15951000,15950000,Vermut
+15961000,15960000,Cerveza
+15962000,15960000,Heces de cervecería o destilería
+15981000,15980000,Agua mineral
+15982000,15980000,Refrescos
+15991000,15990000,Productos de tabaco
+15992000,15990000,Tabaco
+15993000,15990000,Artículos de estanco
+15994000,15990000,Papel de fumar y papel de filtro
+16141000,16140000,Distribuidores de abono
+16311000,16310000,Cortadoras de césped
+16331000,16330000,Prensas recogedoras
+16611000,16610000,Máquinas para lavar productos agrícolas
+16612000,16610000,Máquinas para seleccionar o clasificar productos agrícolas
+16613000,16610000,"Máquinas para la limpieza o la clasificación de semillas, granos o legumbres secas"
+16651000,16650000,"Incubadoras y criadoras, para la avicultura"
+18113000,18110000,Prendas de vestir para uso industrial
+18114000,18110000,Monos
+18132000,18130000,Ropa de vuelo
+18141000,18140000,Guantes de trabajo
+18142000,18140000,Viseras de seguridad
+18143000,18140000,Indumentaria de protección
+18211000,18210000,Capas
+18212000,18210000,Capotes
+18213000,18210000,Chaquetones cortavientos
+18221000,18220000,Ropa impermeable
+18222000,18220000,Indumentaria corporativa
+18223000,18220000,Chaquetas y chaquetas deportivas
+18224000,18220000,Prendas de vestir confeccionadas de tejidos impregnados o recubiertos
+18231000,18230000,Vestidos
+18232000,18230000,Faldas
+18233000,18230000,Pantalones cortos
+18234000,18230000,Pantalones
+18235000,18230000,"Jerseys, cárdigans y artículos similares"
+18311000,18310000,Combinaciones
+18312000,18310000,Calzoncillos
+18313000,18310000,Bragas
+18314000,18310000,Albornoces
+18315000,18310000,Medias
+18316000,18310000,Leotardos
+18317000,18310000,Calcetines
+18318000,18310000,Ropa de dormir
+18321000,18320000,Sostenes
+18322000,18320000,Corsés
+18323000,18320000,Ligas
+18331000,18330000,Camisetas
+18332000,18330000,Camisas
+18333000,18330000,Polos
+18411000,18410000,Prendas para bebés
+18412000,18410000,Ropa deportiva
+18421000,18420000,Pañuelos
+18422000,18420000,Bufandas
+18423000,18420000,Corbatas
+18424000,18420000,Guantes
+18425000,18420000,Cinturones
+18441000,18440000,Sombreros
+18443000,18440000,Artículos y complementos de sombrerería
+18444000,18440000,Tocados de protección
+18451000,18450000,Botones
+18452000,18450000,Imperdibles
+18453000,18450000,Cremalleras
+18511000,18510000,Piedras preciosas para joyería
+18512000,18510000,Monedas y medallas
+18513000,18510000,Artículos de joyería
+18521000,18520000,Relojes de pulsera o de bolsillo
+18522000,18520000,Relojes de pulsera
+18523000,18520000,Cronómetros
+18611000,18610000,Pieles finas
+18612000,18610000,Prendas de vestir de piel
+18613000,18610000,Artículos de piel artificial
+18811000,18810000,Calzado impermeable
+18812000,18810000,Calzado con partes de caucho o de plástico
+18813000,18810000,Calzado con pala de cuero
+18814000,18810000,Calzado con pala de materiales textiles
+18815000,18810000,Botas
+18816000,18810000,Chanclos
+18821000,18820000,Calzado de esquí
+18822000,18820000,Zapatillas de entrenamiento
+18823000,18820000,"Botas media montaña, de serraje"
+18824000,18820000,Botas de fútbol
+18831000,18830000,Calzado con puntera metálica de protección
+18832000,18830000,Calzado especial
+18841000,18840000,Palas de calzado
+18842000,18840000,Suelas
+18843000,18840000,Tacones
+18911000,18910000,Sillas de montar
+18912000,18910000,Fustas
+18913000,18910000,Látigos
+18921000,18920000,Maletas
+18923000,18920000,Bolsas y billeteros
+18924000,18920000,Baúles
+18925000,18920000,Portacantimploras y fundas
+18929000,18920000,Neceseres
+18931000,18930000,Sacos de viaje
+18932000,18930000,Bolsas de deporte
+18933000,18930000,Sacas y bolsas para correo
+18934000,18930000,Macutos
+18935000,18930000,Bolsas para ropa sucia
+18936000,18930000,Bolsas textiles
+18937000,18930000,Sacos para embalaje
+18938000,18930000,Sobres acolchados
+18939000,18930000,Bolsos de mano
+19131000,19130000,Piel de oveja o cordero
+19132000,19130000,Piel de cabra o cabritilla
+19133000,19130000,Cuero de cerdo
+19141000,19140000,Cuero de otros animales
+19142000,19140000,Cuero artificial o regenerado
+19143000,19140000,Cuero de imitación
+19144000,19140000,Charol
+19211000,19210000,Tejidos sintéticos
+19212000,19210000,Tejidos de algodón
+19231000,19230000,Ropa blanca
+19241000,19240000,Terciopelo y felpa
+19242000,19240000,Tejido de toalla con bucles
+19243000,19240000,Tejidos para tapicería
+19244000,19240000,Tejidos para cortinas
+19245000,19240000,Tejidos de revestimiento
+19251000,19250000,Tejidos de punto
+19252000,19250000,Tejidos de ganchillo
+19281000,19280000,Lana
+19282000,19280000,Pieles de animal
+19283000,19280000,Pieles y plumas de aves
+19431000,19430000,Hilados de seda
+19432000,19430000,Hilados de lana
+19433000,19430000,Hilados de algodón
+19434000,19430000,Hilados de lino
+19435000,19430000,Hilos e hilados de coser de fibras naturales
+19436000,19430000,Hilados de fibras textiles vegetales
+19441000,19440000,Hilados sintéticos
+19442000,19440000,Hilos sintéticos
+19511000,19510000,"Cámaras de aire, bandas de rodadura y fajas de protección de la cámara de aire, de caucho"
+19512000,19510000,Artículos de caucho sin vulcanizar
+19513000,19510000,Tejidos cauchutados
+19514000,19510000,Caucho regenerado
+19521000,19520000,Productos de poliestireno
+19522000,19520000,Resinas
+19721000,19720000,Borra de filamentos sintéticos
+19722000,19720000,Hilado de alta tenacidad
+19723000,19720000,Hilado texturado sencillo
+19724000,19720000,Monofilamento sintético
+19731000,19730000,Fibras artificiales discontinuas
+19732000,19730000,Polipropileno
+19733000,19730000,Hilado texturado artificial
+22111000,22110000,Libros escolares
+22112000,22110000,Libros de texto
+22113000,22110000,Libros para biblioteca
+22114000,22110000,"Diccionarios, mapas, libros de música y otros libros"
+22121000,22120000,Publicaciones técnicas
+22211000,22210000,Revistas especializadas
+22212000,22210000,Publicaciones periódicas
+22213000,22210000,Revistas
+22312000,22310000,Ilustraciones
+22313000,22310000,Calcomanías
+22314000,22310000,Diseños
+22315000,22310000,Fotografías
+22321000,22320000,Tarjetas de Navidad
+22411000,22410000,Sellos de Navidad
+22412000,22410000,Sellos nuevos
+22413000,22410000,Sellos de ahorro
+22414000,22410000,Cuadernillos de sellos de correos
+22451000,22450000,Pasaportes
+22452000,22450000,Giros postales
+22453000,22450000,Pegatinas del impuesto de circulación
+22454000,22450000,Permisos de conducir
+22455000,22450000,Carnés de identidad
+22456000,22450000,Permisos
+22457000,22450000,Tarjetas de entrada
+22458000,22450000,Impresos por encargo
+22459000,22450000,Billetes
+22461000,22460000,Catálogos
+22462000,22460000,Material de publicidad
+22471000,22470000,Manuales informáticos
+22472000,22470000,Manuales de instrucciones
+22473000,22470000,Manuales técnicos
+22521000,22520000,Equipo de estampado en relieve
+22611000,22610000,Tinta para huecograbado
+22612000,22610000,Tinta china
+22813000,22810000,Libros de contabilidad
+22814000,22810000,Talonarios de recibos
+22815000,22810000,Talonarios de notas
+22816000,22810000,Blocs
+22817000,22810000,Agendas u organizadores personales
+22819000,22810000,Libros de direcciones
+22821000,22820000,Formularios electorales
+22822000,22820000,Formularios comerciales
+22831000,22830000,Recambios para cuadernos escolares
+22832000,22830000,Hojas para ejercicios
+22841000,22840000,Álbumes para colecciones
+22851000,22850000,Clasificadores
+22852000,22850000,Carpetas
+22853000,22850000,"Archivadores, bandejas portadocumentos y otros soportes análogos"
+22991000,22990000,Papel prensa
+22992000,22990000,Papel o cartón hecho a mano
+22993000,22990000,"Papel y cartón fotosensibles, termosensibles o termográficos"
+24111000,24110000,"Hidrógeno, argón, gases nobles, nitrógeno y oxígeno"
+24112000,24110000,Compuestos oxigenados inorgánicos
+24113000,24110000,Aire líquido y aire comprimido
+24211000,24210000,"Óxido y peróxido de zinc; óxido de titanio, tintes y pigmentos"
+24212000,24210000,"Óxidos e hidróxidos de cromo, de manganeso, de magnesio, de plomo y de cobre"
+24213000,24210000,Cal apagada
+24221000,24220000,Extractos tintóreos
+24222000,24220000,Extractos curtientes
+24223000,24220000,Taninos
+24224000,24220000,Materias colorantes
+24225000,24220000,Preparados curtientes
+24311000,24310000,"Elementos químicos, ácidos inorgánicos y sus compuestos"
+24312000,24310000,"Halogenatos metálicos; hipocloritos, cloratos y percloratos"
+24313000,24310000,"Sulfuros, sulfatos; nitratos, fosfatos y carbonatos"
+24314000,24310000,Sales metálicas de ácidos diversas
+24315000,24310000,Productos químicos inorgánicos diversos
+24316000,24310000,Agua destilada
+24317000,24310000,Piedras sintéticas
+24321000,24320000,Hidrocarburos
+24322000,24320000,"Alcoholes, fenoles, alcoholes fenólicos y sus derivados halogenados, sulfonados, nitrados o nitrosados; alcoholes grasos industriales"
+24323000,24320000,Ácidos grasos monocarboxílicos industriales
+24324000,24320000,Compuestos orgánicos con funciones nitrogenadas
+24325000,24320000,Tiocompuestos orgánicos
+24326000,24320000,"Aldehído, cetona, peróxidos orgánicos y éteres"
+24327000,24320000,Productos químicos orgánicos diversos
+24411000,24410000,Ácido nítrico y sus sales
+24412000,24410000,Ácidos sulfonítricos
+24413000,24410000,Amoníaco
+24421000,24420000,Abonos minerales fosfatados
+24422000,24420000,Abonos químicos fosfatados
+24451000,24450000,Pesticidas
+24452000,24450000,Insecticidas
+24453000,24450000,Herbicidas
+24454000,24450000,Reguladores del crecimiento de las plantas
+24455000,24450000,Desinfectantes
+24456000,24450000,Rodenticidas
+24457000,24450000,Fungicidas
+24541000,24540000,Polímeros de acetato de vinilo en formas primarias
+24542000,24540000,Polímeros acrílicos en formas primarias
+24611000,24610000,Pólvoras de carga de proyección
+24612000,24610000,Explosivos diversos
+24613000,24610000,"Cohetes de señales, cohetes granífugos, señales para la niebla y artículos de pirotecnia"
+24615000,24610000,"Mechas, cápsulas, inflamadores y detonadores eléctricos"
+24911000,24910000,Gelatinas
+24931000,24930000,Placas y películas fotográficas
+24951000,24950000,Grasas y lubricantes
+24952000,24950000,Pastas para modelar
+24953000,24950000,Agentes de acabado
+24954000,24950000,Carbón activado
+24955000,24950000,Recipientes inodoros de sustancias químicas
+24956000,24950000,Peptonas y sustancias protéicas
+24957000,24950000,Aditivos químicos
+24958000,24950000,Productos químicos para la industria del petróleo y del gas
+24959000,24950000,Aerosoles y productos químicos en forma de disco
+24961000,24960000,Fluidos para radiador
+24962000,24960000,Productos químicos para tratamiento del agua
+24963000,24960000,Productos anticorrosión
+24964000,24960000,Glicerol
+24965000,24960000,Enzimas
+30111000,30110000,Procesadores de texto
+30121000,30120000,Fotocopiadoras y aparatos termocopiadores
+30122000,30120000,Impresoras offset del tipo de las de oficina
+30123000,30120000,Máquinas de oficina
+30124000,30120000,Partes y accesorios de máquinas de oficina
+30125000,30120000,Partes y accesorios de fotocopiadoras
+30131000,30130000,Equipo para procesamiento de correspondencia
+30132000,30130000,Equipo para clasificación
+30133000,30130000,Equipo para envío de correspondencia
+30141000,30140000,Máquinas de calcular
+30142000,30140000,Máquinas de contabilidad y cajas registradoras
+30144000,30140000,Máquinas del tipo de las de calcular
+30145000,30140000,Partes y accesorios de máquinas de calcular
+30151000,30150000,Máquinas de escribir electrónicas
+30152000,30150000,Partes y accesorios de máquinas de escribir
+30161000,30160000,Tarjetas de crédito
+30162000,30160000,Tarjetas inteligentes
+30163000,30160000,Tarjetas de débito
+30171000,30170000,Fechadores y numeradores
+30172000,30170000,Máquinas para la impresión de tarjetas de identificación
+30173000,30170000,Máquinas para la colocación de etiquetas
+30174000,30170000,Máquinas para la elaboración de etiquetas
+30175000,30170000,Equipos de rotulación
+30176000,30170000,Rotuladoras manuales de cinta
+30177000,30170000,Sistemas automáticos de etiquetado
+30178000,30170000,Sistemas semiautomáticos de etiquetado
+30179000,30170000,Dispensadores de etiquetas
+30181000,30180000,Endosadores de cheques
+30182000,30180000,Máquinas de escribir cheques
+30191000,30190000,Equipos de oficina excepto mobiliario
+30192000,30190000,Artículos de oficina
+30193000,30190000,Organizadores de despacho y accesorios
+30194000,30190000,Artículos de dibujo
+30195000,30190000,Tableros
+30196000,30190000,Planificadores
+30197000,30190000,Material de oficina de pequeña envergadura
+30198000,30190000,Máquinas de lotería
+30199000,30190000,Artículos de papelería y otros artículos
+30211000,30210000,Ordenador «mainframe»
+30212000,30210000,Equipo informático para miniordenadores
+30213000,30210000,Ordenadores personales
+30214000,30210000,Puestos de trabajo
+30215000,30210000,Equipo informático para microordenadores
+30216000,30210000,Lectores magnéticos u ópticos
+30221000,30220000,Planos catastrales digitales
+30231000,30230000,Pantallas de ordenador y consolas
+30232000,30230000,Periféricos
+30233000,30230000,Dispositivos multimedia de almacenamiento y lectura
+30234000,30230000,Soportes de almacenamiento
+30236000,30230000,Equipo informático diverso
+30237000,30230000,"Partes, accesorios y suministros para ordenadores"
+30238000,30230000,Equipo de automatización de biblioteca
+31111000,31110000,Adaptadores
+31121000,31120000,Grupos electrógenos
+31122000,31120000,Generadores con máquina impulsora
+31124000,31120000,Generador de turbina de vapor y aparatos conexos
+31126000,31120000,Dinamos
+31127000,31120000,Generadores de emergencia
+31128000,31120000,Turbogenerador
+31131000,31130000,Motores monofásicos
+31132000,31130000,Motores polifásicos
+31141000,31140000,Enfriadores de agua
+31151000,31150000,Convertidores estáticos
+31153000,31150000,Rectificadores
+31154000,31150000,Suministros ininterrumpidos de energía
+31155000,31150000,Inversores
+31156000,31150000,Suministros interrumpibles de energía
+31157000,31150000,Inductores
+31158000,31150000,Cargadores
+31161000,31160000,Partes de motores y generadores eléctricos
+31162000,31160000,"Partes de transformadores, inductores y convertidores estáticos"
+31171000,31170000,Transformadores dieléctricos líquidos
+31172000,31170000,Transformadores de tensión
+31173000,31170000,Transformador para aparatos de medida
+31174000,31170000,Transformadores de corriente
+31211000,31210000,Cuadros y cajas de fusibles
+31212000,31210000,Disyuntores
+31213000,31210000,Equipo de distribución
+31214000,31210000,Conmutadores
+31215000,31210000,Limitadores de tensión
+31216000,31210000,Dispositivos y equipos de protección contra los rayos
+31217000,31210000,Eliminadores de sobrevoltaje
+31218000,31210000,Barras ómnibus
+31219000,31210000,Cajas de protección
+31221000,31220000,Relés eléctricos
+31223000,31220000,Portalámparas
+31224000,31220000,Conexiones y elementos de contacto
+31311000,31310000,Conexiones de red
+31321000,31320000,Líneas de energía eléctrica
+31341000,31340000,"Tambores para cables, aislados"
+31342000,31340000,"Empalmes para cables, aislados"
+31343000,31340000,"Juntas para cables, aisladas"
+31344000,31340000,"Casquillos para paso de cable, aislados"
+31351000,31350000,Conductores eléctricos para sistemas de control de acceso
+31411000,31410000,Baterías alcalinas
+31421000,31420000,Baterías de plomo
+31422000,31420000,Paquetes de baterías
+31431000,31430000,Acumuladores ácidos de plomo
+31432000,31430000,Acumuladores de níquel-cadmio
+31433000,31430000,Acumuladores de níquel-hierro
+31434000,31430000,Acumuladores de litio
+31511000,31510000,Lámparas de incandescencia halógenas de wolframio
+31512000,31510000,Lámparas de incandescencia halógenas de volframio
+31514000,31510000,Lámparas y tubos de descarga
+31515000,31510000,Lámparas y tubos de rayos ultravioletas
+31516000,31510000,Lámparas y tubos de rayos infrarrojos
+31517000,31510000,Lámparas de arco eléctrico
+31518000,31510000,Luces de señalización
+31519000,31510000,Neones y lámparas incandescentes
+31521000,31520000,Lámparas
+31522000,31520000,Luces para árbol de Navidad
+31523000,31520000,Placas indicadoras y letreros luminosos
+31524000,31520000,Accesorios para iluminación de techo o de pared
+31527000,31520000,Focos
+31531000,31530000,Bombillas
+31532000,31530000,Partes de lámparas y accesorios de iluminación
+31611000,31610000,Juegos de cables
+31612000,31610000,Cableados eléctricos para motores
+31625000,31620000,Avisadores eléctricos de protección contra robos e incendios
+31642000,31640000,Aparatos para detección electrónica
+31643000,31640000,Aceleradores de partículas
+31644000,31640000,Registradores diversos de datos
+31645000,31640000,Billares eléctricos
+31651000,31650000,Cinta aislante
+31671000,31670000,Ampollas abiertas de vidrio y tubos de rayos catódicos
+31681000,31680000,Accesorios eléctricos
+31682000,31680000,Artículos eléctricos
+31711000,31710000,Material electrónico
+31712000,31710000,"Maquinaria, aparatos y microsistemas microelectrónicos"
+31731000,31730000,Material electrotécnico
+32211000,32210000,Equipo de producción de radiodifusión
+32221000,32220000,Radiofaros
+32222000,32220000,Aparatos de codificación de señales de vídeo
+32223000,32220000,Aparatos transmisores de vídeo
+32224000,32220000,Aparatos transmisores de televisión
+32231000,32230000,Aparatos de televisión en circuito cerrado
+32232000,32230000,Equipo de videoconferencia
+32233000,32230000,Estaciones de amplificación de radiofrecuencia
+32234000,32230000,Cámaras de televisión en circuito cerrado
+32235000,32230000,Sistema de vigilancia en circuito cerrado
+32236000,32230000,Radioteléfonos
+32237000,32230000,Emisores-receptores portátiles
+32251000,32250000,Teléfonos para automóvil
+32252000,32250000,Teléfonos GSM
+32321000,32320000,Equipo de proyección de televisión
+32322000,32320000,Equipo multimedia
+32323000,32320000,Videomonitores
+32324000,32320000,Receptores de televisión
+32331000,32330000,Platos giradiscos
+32332000,32330000,Magnetófonos
+32333000,32330000,Aparatos de grabación o reproducción de vídeo
+32341000,32340000,Micrófonos
+32342000,32340000,Altavoces
+32343000,32340000,Amplificadores
+32344000,32340000,Receptores para radiotelefonía o radiotelegrafía
+32351000,32350000,Accesorios para equipo de sonido y vídeo
+32352000,32350000,Antenas y reflectores
+32353000,32350000,Grabaciones de sonido
+32354000,32350000,Productos de película
+32411000,32410000,Red de anillo con paso de testigo
+32412000,32410000,Red de comunicaciones
+32413000,32410000,Red integrada
+32415000,32410000,Red Ethernet
+32416000,32410000,Red RDSI
+32417000,32410000,Redes multimedia
+32418000,32410000,Red de radio
+32421000,32420000,Cableado de red
+32422000,32420000,Componentes de red
+32423000,32420000,Nodos de red
+32424000,32420000,Infraestructura de red
+32425000,32420000,Sistema de explotación de red
+32426000,32420000,Sistema de edición de red
+32427000,32420000,Sistema de red
+32428000,32420000,Actualización de la red
+32429000,32420000,Equipo de red telefónica
+32441000,32440000,Equipo de telemetría
+32442000,32440000,Cuadros de bornes
+32521000,32520000,Cable de telecomunicaciones
+32522000,32520000,Equipo de telecomunicaciones
+32523000,32520000,Instalaciones de telecomunicaciones
+32524000,32520000,Sistema de telecomunicaciones
+32531000,32530000,Equipo de comunicaciones por satélite
+32532000,32530000,Antenas parabólicas
+32533000,32530000,Estaciones terrestres de telecomunicaciones por satélite
+32534000,32530000,Plataformas satélite
+32541000,32540000,Equipo de conmutador
+32542000,32540000,Cuadros de conmutadores para centrales telefónicas
+32543000,32540000,Cuadros de conmutadores para centrales telefónicas
+32544000,32540000,Equipo de PABX
+32545000,32540000,Sistemas de PABX
+32546000,32540000,Equipo de conmutación digital
+32547000,32540000,Conmutadores de vacío
+32551000,32550000,Cables telefónicos y equipo asociado
+32552000,32550000,Aparatos eléctricos de telefonía o telegrafía por hilo
+32553000,32550000,Partes de aparatos telefónicos o telegráficos eléctricos
+32561000,32560000,Conexiones de fibra óptica
+32562000,32560000,Cables de fibra óptica
+32571000,32570000,Infraestructura de comunicaciones
+32572000,32570000,Cable de comunicaciones
+32573000,32570000,Sistema de control de comunicaciones
+32581000,32580000,Equipo de comunicación de datos
+32582000,32580000,Soportes de datos
+32583000,32580000,Medios de soporte de datos y señales vocales
+32584000,32580000,Medios de soporte de datos
+33111000,33110000,Aparatos para radiología
+33112000,33110000,"Material de imaginería ecográfica, doppler y por ultrasonidos"
+33113000,33110000,Equipo de imaginería por resonancia magnética
+33114000,33110000,Espectroscopios
+33115000,33110000,Tomógrafos
+33121000,33120000,Sistema de registro ambulatorio de larga duración
+33122000,33120000,Aparatos de oftalmología
+33123000,33120000,Aparatos para exploración cardiovascular
+33124000,33120000,Aparatos y material para diagnóstico y radiodiagnóstico
+33125000,33120000,Aparatos para exploración urológica
+33126000,33120000,Aparatos para estomatología
+33127000,33120000,Aparatos para análisis inmunológicos
+33128000,33120000,Láseres médicos distintos de los usados en cirugía
+33131000,33130000,Instrumentos de dentista
+33132000,33130000,Implante dental
+33133000,33130000,Material de impresión para dentaduras
+33134000,33130000,Material accesorio para endodoncia
+33135000,33130000,Aparatos para ortodoncia
+33136000,33130000,Instrumento rotativo y abrasivo
+33137000,33130000,Material accesorio para profilaxis dental
+33138000,33130000,Productos para prótesis y rebase
+33141000,33140000,Productos consumibles médicos no químicos desechables y productos consumibles hematológicos
+33151000,33150000,Aparatos y material para radioterapia
+33152000,33150000,Incubadoras
+33153000,33150000,Litotritor
+33154000,33150000,Aparatos de mecanoterapia
+33155000,33150000,Equipos para fisioterapia
+33156000,33150000,Material para pruebas objetivas psicológicas
+33157000,33150000,Aparatos respiratorios y de oxigenoterapia
+33158000,33150000,"Terapia eléctrica, electromagnética y mecánica"
+33159000,33150000,Sistema de química clínica
+33161000,33160000,Unidad de electrocirugía
+33162000,33160000,Instrumentos y aparatos de quirófano
+33163000,33160000,Tienda para uso médico
+33164000,33160000,Aparatos de celioscopia
+33165000,33160000,Aparatos de criocirugía y crioterapia
+33166000,33160000,Aparatos de dermatología
+33167000,33160000,Luces para quirófanos
+33168000,33160000,Aparatos de endoscopia y endocirugía
+33169000,33160000,Instrumentos quirúrgicos
+33171000,33170000,Instrumentos de anestesia y reanimación
+33172000,33170000,Aparatos para anestesia y reanimación
+33181000,33180000,Dispositivos para hemodiálisis
+33182000,33180000,Aparatos de ayuda cardíaca
+33183000,33180000,Aparatos de ayuda ortopédica
+33184000,33180000,Artículos y aparatos de prótesis
+33185000,33180000,Audífonos
+33186000,33180000,Unidad de circulación extracorpórea
+33191000,33190000,"Aparatos para esterilización, desinfección e higiene"
+33192000,33190000,Mobiliario para uso médico
+33193000,33190000,Sillas de ruedas y demás vehículos para inválidos y material asociado
+33194000,33190000,Instrumentos y aparatos de transfusión y perfusión
+33195000,33190000,Sistema de monitorización de los pacientes
+33196000,33190000,Ayudas médicas
+33197000,33190000,Equipo informático para uso médico
+33198000,33190000,Artículos de papel para hospital
+33199000,33190000,Vestuario médico
+33611000,33610000,Medicamentos contra los trastornos producidos por la hiperacidez
+33612000,33610000,Medicamentos contra los trastornos gastrointestinales funcionales
+33613000,33610000,Laxantes
+33614000,33610000,"Antidiarreicos, antiinflamatorios y antiinfecciosos intestinales"
+33615000,33610000,Antidiabéticos
+33616000,33610000,Vitaminas
+33617000,33610000,Suplementos minerales
+33621000,33620000,Medicamentos para la sangre y para los órganos hematopoyéticos
+33622000,33620000,Medicamentos para el aparato cardiovascular
+33631000,33630000,Medicamentos usados en dermatología
+33632000,33630000,Medicamentos para el sistema músculo-esquelético
+33641000,33640000,Medicamentos para el sistema génito-urinario y hormonas sexuales
+33642000,33640000,"Preparados hormonales sistémicos, excluidas las hormonas sexuales"
+33651000,33650000,"Antiinfecciosos generales para uso sistémico, vacunas, antineoplásicos"
+33652000,33650000,Agentes antineoplásicos e inmunomoduladores
+33661000,33660000,Medicamentos para el sistema nervioso
+33662000,33660000,Medicamentos para los órganos de los sentidos
+33673000,33670000,Medicamentos para enfermedades obstructivas de las vías respiratorias
+33674000,33670000,Medicamentos para la tos y el resfriado
+33675000,33670000,Antihistamínicos para empleo sistémico
+33681000,33680000,"Tetinas, chupetes y artículos similares para bebés"
+33682000,33680000,Baldosas de caucho
+33683000,33680000,Amortiguadores de caucho
+33691000,33690000,"Productos antiparasitarios, insecticidas y repelentes"
+33692000,33690000,Soluciones medicinales
+33693000,33690000,Todo los demás productos terapéuticos
+33694000,33690000,Medios de diagnóstico
+33695000,33690000,Todo los demás productos no terapéuticos
+33696000,33690000,Reactivos y medios de contraste
+33697000,33690000,"Preparaciones médicas, excepto productos consumibles para uso odontológico"
+33698000,33690000,Productos clínicos
+33711000,33710000,Perfumes y productos de tocador
+33712000,33710000,Preservativos
+33713000,33710000,Productos para el cuidado de los pies
+33721000,33720000,Navajas
+33722000,33720000,Juegos para manicura o pedicura
+33731000,33730000,Lentes de contacto
+33732000,33730000,Soluciones para lentes de contacto
+33733000,33730000,Gafas de sol
+33734000,33730000,Gafas
+33735000,33730000,Anteojos de protección
+33741000,33740000,Productos para el cuidado de las manos
+33742000,33740000,Productos para el cuidado de las uñas
+33751000,33750000,Pañales desechables
+33752000,33750000,Protectores de lactancia
+33761000,33760000,Papel higiénico
+33762000,33760000,Pañuelos de papel
+33763000,33760000,Toallas de papel
+33764000,33760000,Servilletas de papel
+33771000,33770000,Productos de papel para uso sanitario
+33772000,33770000,Productos desechables de papel
+33791000,33790000,Artículos de vidrio para la higiene
+33792000,33790000,Artículos de vidrio para uso farmacéutico
+33793000,33790000,Artículos de vidrio para laboratorio
+33911000,33910000,Tijeras de autopsia
+33912000,33910000,Instrumental de disección para autopsia
+33913000,33910000,Sondas para extracción de proyectiles en autopsia
+33914000,33910000,"Hilo, agujas y pinzas de sutura para cadáveres"
+33915000,33910000,Sondas acanaladas para autopsia
+33916000,33910000,Hojas o accesorios para sierras de autopsia
+33917000,33910000,Mesas o «pads» de disección
+33918000,33910000,Maletines para accesorios o instrumental de cirugía en cadáveres
+33919000,33910000,Estuches enrollables para accesorios o instrumental de cirugía en cadáveres
+33921000,33920000,Aspiradores de polvo óseo
+33922000,33920000,Bolsas para transporte de cadáveres
+33923000,33920000,"Reposacabezas, tableros para cadáveres y balanzas colgantes para autopsia"
+33924000,33920000,Equipo de prevención de enfermedades infecciosas en cadáveres
+33925000,33920000,Pulseras o etiquetas de identificación de cadáveres
+33926000,33920000,Tubos o aspiradores al vacío para la recogida de líquidos de autopsia
+33927000,33920000,Termómetros rectales para cadáveres
+33928000,33920000,Enderezadores de dedo para cadáveres
+33929000,33920000,Maletines de regeneración del tejido dactilar en cadáveres
+33931000,33930000,Mesas o accesorios para autopsia macroscópica
+33932000,33930000,Pilas o accesorios para autopsia
+33933000,33930000,Mesas o accesorios para autopsia
+33934000,33930000,Mesas o accesorios para necropsia
+33935000,33930000,Mesas o accesorios para la disección de cadáveres de animales
+33936000,33930000,Mesas o accesorios para embalsamamiento
+33937000,33930000,"Mesas para autopsia con evacuación descendente, o accesorios"
+33941000,33940000,Estanterías para el depósito de cadáveres
+33942000,33940000,Carros portacadáveres
+33943000,33940000,Carros elevacadáveres de tijera
+33944000,33940000,Arcones frigoríficos o congeladores para depósitos de cadáveres
+33945000,33940000,Cámaras frigoríficas para depósitos de cadáveres
+33946000,33940000,Carros de autopsia
+33947000,33940000,Bandejas portacadáveres
+33948000,33940000,Dispositivos para la elevación o traslado de cadáveres
+33949000,33940000,Contenedores para transporte de cuerpos
+33951000,33950000,Material de necroidentificación
+33952000,33950000,Mascarillas antiputrefacción
+33953000,33950000,Material de detección de sangre en cadáveres
+33954000,33950000,Maletín de toma de muestras biológicas
+33961000,33960000,Inyectores intracavitarios para embalsamamiento
+33962000,33960000,Tubos de drenaje venoso para embalsamamiento
+33963000,33960000,Líquidos y productos químicos para embalsamamiento
+33964000,33960000,Tubos inyectores para embalsamamiento
+33965000,33960000,Pilas de embalsamamiento y sus accesorios
+33966000,33960000,Maletines de embalsamamiento
+33967000,33960000,Agujas de inyector para embalsamamiento
+33968000,33960000,Cápsulas oculares para embalsamamiento
+33971000,33970000,Indumentaria para cadáveres
+33972000,33970000,Bolsas para cadáveres
+33973000,33970000,Mortajas
+33974000,33970000,Aspiradores mortuorios
+33975000,33970000,Compuestos endurecedores para cadáveres
+34111000,34110000,Automóviles «familiares» AC (break) y «berlinas» AA (turismos)
+34113000,34110000,Vehículos con tracción a las 4 ruedas
+34114000,34110000,Vehículos especiales
+34115000,34110000,Otros automóviles para pasajeros
+34121000,34120000,Autobuses y autocares
+34131000,34130000,Furgonetas con caja abierta («pick-ups»)
+34132000,34130000,Mototrineos
+34133000,34130000,Camiones articulados
+34134000,34130000,Camiones con plataforma y camiones basculantes
+34136000,34130000,Camionetas
+34137000,34130000,Vehículos usados para el transporte de mercancías
+34138000,34130000,Tractores de carretera
+34139000,34130000,Chasis
+34142000,34140000,Camiones grúa y camiones volquete
+34143000,34140000,Vehículos de vialidad invernal
+34144000,34140000,Vehículos de motor para usos especiales
+34151000,34150000,Simuladores de conducción
+34152000,34150000,Simuladores de entrenamiento
+34211000,34210000,"Carrocerías para autobuses, ambulancias y vehículos de transporte de mercancías"
+34221000,34220000,Contenedores móviles para usos especiales
+34223000,34220000,Remolques y semirremolques
+34224000,34220000,"Partes de remolques, semirremolques y otros vehículos"
+34311000,34310000,Motores (vehículos)
+34312000,34310000,Partes de motores
+34321000,34320000,Ejes y cajas de cambio
+34322000,34320000,Frenos y partes de frenos
+34324000,34320000,"Ruedas, sus partes y accesorios"
+34325000,34320000,Silenciadores y tubos de escape
+34326000,34320000,"Gatos para automóviles, embragues y sus partes"
+34327000,34320000,"Volantes, columnas y cajas de dirección"
+34328000,34320000,"Bancos de prueba, kits de conversión de vehículos y cinturones de seguridad"
+34351000,34350000,Neumáticos para vehículos ligeros
+34352000,34350000,Neumáticos para vehículos pesados
+34411000,34410000,Partes y accesorios para motocicletas
+34421000,34420000,Motocicletas ligeras
+34422000,34420000,Bicicletas con motor auxiliar
+34431000,34430000,Bicicletas sin motor
+34432000,34430000,Partes y accesorios para bicicletas
+34512000,34510000,Buques y embarcaciones similares para el transporte de personas o mercancías
+34513000,34510000,"Barcos pesqueros, barcos de emergencia y demás barcos especiales"
+34514000,34510000,Plataformas flotantes o sumergibles de perforación o explotación
+34515000,34510000,Estructuras flotantes
+34516000,34510000,Defensas marinas
+34521000,34520000,Barcos especializados
+34522000,34520000,Barcos de recreo y deportivos
+34611000,34610000,Locomotoras
+34612000,34610000,Ténderes y funiculares
+34621000,34620000,"Vehículos de mantenimiento o de servicio para ferrocarril, y vagones de carga"
+34622000,34620000,"Coches de pasajeros de tren y tranvía, y trolebuses"
+34631000,34630000,Partes de locomotoras o material móvil
+34632000,34630000,Equipo de control del tráfico de ferrocarriles
+34711000,34710000,Helicópteros y aviones
+34712000,34710000,"Naves espaciales, satélites y vehículos de lanzamiento"
+34721000,34720000,Planeadores
+34722000,34720000,Globos aerostáticos y dirigibles
+34731000,34730000,Partes de aeronaves
+34741000,34740000,Equipo relacionado con aeronaves
+34911000,34910000,Carros de tracción animal o manual y otros vehículos sin propulsión mecánica
+34912000,34910000,Carritos para equipaje
+34913000,34910000,Piezas de recambio diversas
+34921000,34920000,Equipo de mantenimiento de carreteras
+34922000,34920000,Equipo de señalización de carreteras
+34923000,34920000,Equipo de control del tráfico rodado
+34924000,34920000,Señales de mensaje variable
+34926000,34920000,Equipo de control de aparcamientos
+34927000,34920000,Equipo para peajes
+34928000,34920000,Mobiliario para carreteras
+34929000,34920000,Materiales para la red de autopistas
+34931000,34930000,Equipo portuario
+34932000,34930000,Equipos de radar
+34933000,34930000,Equipo de navegación
+34934000,34930000,Palas de hélices
+34941000,34940000,Raíles y accesorios
+34942000,34940000,Equipo de señalización
+34943000,34940000,Sistema de monitorización del tráfico ferroviario
+34944000,34940000,Sistema de calefacción de agujas
+34945000,34940000,Máquinas para alineación de vías
+34946000,34940000,Materiales y suministros para la construcción de vías férreas
+34947000,34940000,Traviesas y partes de traviesas
+34951000,34950000,Plataformas de acceso
+34952000,34950000,Elevadores hidráulicos de plataforma
+34953000,34950000,Rampas de acceso
+34954000,34950000,Pasarelas de servicio
+34955000,34950000,Dique flotante
+34961000,34960000,Sistema de manipulación de equipajes
+34962000,34960000,Equipo de control de tráfico aéreo
+34963000,34960000,Sistema de aterrizaje por instrumentos (ILS)
+34964000,34960000,Radiofaro omnidireccional VHF Doppler (DVOR)
+34965000,34960000,Equipo radiotelemétrico (DME)
+34966000,34960000,Radiogoniómetro y radiofaro no direccional
+34967000,34960000,Sistema de comunicación aeroportuaria (COM)
+34968000,34960000,Sistema de vigilancia aeroportuaria y sistema de iluminación aeroportuaria
+34969000,34960000,Pasarelas y escaleras de embarque de pasajeros para aeronaves
+34971000,34970000,Equipo de cámara de control de velocidad
+34972000,34970000,Sistema de medición del flujo del tráfico
+34991000,34990000,Luces para iluminación exterior
+34992000,34990000,"Señales, incluidas las luminosas"
+34993000,34990000,Luces para el alumbrado de carreteras
+34994000,34990000,Alumbrado para orientación e iluminación de barcos
+34995000,34990000,Alumbrado para orientación e iluminación de aeronaves
+34996000,34990000,"Equipo de control, seguridad o señalización para carreteras"
+34997000,34990000,"Equipo de control, seguridad o señalización para aeropuertos"
+34998000,34990000,"Equipo de control, seguridad o señalización para instalaciones portuarias"
+34999000,34990000,"Generadores de señales, separadores de señales de antena («splitters») y máquinas de galvanoplastia"
+35111000,35110000,Equipo de extinción de incendios
+35112000,35110000,Equipo de salvamento y emergencia
+35113000,35110000,Equipo de seguridad
+35121000,35120000,Aparatos e instrumentos de seguridad
+35123000,35120000,Equipo de identificación del lugar
+35124000,35120000,Detectores de metal
+35125000,35120000,Sistema de vigilancia
+35126000,35120000,Equipo de lectura de códigos de barras
+35221000,35220000,Cañones de agua
+35261000,35260000,Paneles de información
+35262000,35260000,Equipo de señalización de control de cruces
+35311000,35310000,"Espadas, sables, bayonetas y lanzas"
+35312000,35310000,Pistolas de gas
+35321000,35320000,Armas de fuego ligeras
+35322000,35320000,Artillería
+35331000,35330000,Municiones para armas de fuego y acciones de guerra
+35332000,35330000,Municiones para acciones navales de guerra
+35333000,35330000,Municiones para acciones aéreas de guerra
+35341000,35340000,Partes de armas de fuego ligeras
+35342000,35340000,Partes de lanzacohetes
+35343000,35340000,Partes de morteros
+35411000,35410000,Carros de combate
+35412000,35410000,Vehículos de combate blindados
+35421000,35420000,Piezas mecánicas de recambio para vehículos militares
+35422000,35420000,Piezas electrónicas y eléctricas de recambio para vehículos militares
+35511000,35510000,Buques de guerra de superficie
+35512000,35510000,Submarinos
+35513000,35510000,Buques de guerra de minas y buques auxiliares
+35521000,35520000,Casco y piezas mecánicas de recambio para buques de guerra
+35522000,35520000,Piezas electrónicas y eléctricas de recambio para buques de guerra
+35613000,35610000,Vehículos aéreos no tripulados
+35621000,35620000,Misiles estratégicos
+35622000,35620000,Misiles tácticos
+35623000,35620000,Misiles de crucero
+35631000,35630000,Satélites militares
+35641000,35640000,Estructura y piezas mecánicas de recambio para equipos aeroespaciales militares
+35642000,35640000,Piezas electrónicas y eléctricas de recambio para equipos aeroespaciales militares
+35711000,35710000,"Sistemas de mando, control y comunicación"
+35712000,35710000,"Sistemas tácticos de mando, control y comunicación"
+35721000,35720000,Sistemas electrónicos de inteligencia
+35722000,35720000,Radares
+35723000,35720000,Radares de defensa aérea
+35812000,35810000,Uniformes de combate
+35813000,35810000,Cascos militares
+35814000,35810000,Máscaras de gas
+35815000,35810000,Prendas de vestir de protección antibalas
+35821000,35820000,Banderas
+37311000,37310000,Instrumentos de teclado
+37312000,37310000,Instrumentos de metal
+37313000,37310000,Instrumentos de cuerda
+37314000,37310000,Instrumentos de viento
+37315000,37310000,Instrumentos musicales con amplificación eléctrica del sonido
+37316000,37310000,Instrumentos de percusión
+37321000,37320000,Accesorios de instrumentos musicales
+37322000,37320000,Partes de instrumentos musicales
+37411000,37410000,Equipo de invierno
+37412000,37410000,Equipo para deportes acuáticos
+37413000,37410000,Artículos para caza y pesca
+37414000,37410000,Material de acampada
+37415000,37410000,Equipo para atletismo
+37416000,37410000,Equipo para actividades de ocio
+37421000,37420000,Colchonetas de gimnasia
+37422000,37420000,Barras de gimnasia y de equilibrios
+37423000,37420000,Cuerdas y anillas para gimnasia y accesorios para escalada
+37424000,37420000,Equipo para saltos gimnásticos
+37425000,37420000,Trampolines de gimnasia
+37426000,37420000,Equipo para equilibrios
+37431000,37430000,Cuadriláteros de boxeo
+37432000,37430000,Sacos de boxeo
+37433000,37430000,Guantes de boxeo
+37441000,37440000,Equipo para aeróbic
+37442000,37440000,Equipo de entrenamiento con pesas y de resistencia
+37451000,37450000,Equipo para deportes practicados en terreno de juego
+37452000,37450000,Equipo para deportes de raqueta y cancha
+37453000,37450000,Equipo de atletismo
+37461000,37460000,Juegos de mesa y sus equipos
+37462000,37460000,Juegos de tiro y sus equipos
+37471000,37470000,Equipo para golf
+37472000,37470000,Equipo para bolos
+37481000,37480000,Maquinaria de mantenimiento del hielo
+37482000,37480000,Paneles de información deportiva
+37511000,37510000,Casas de muñecas
+37512000,37510000,Partes o accesorios de muñecas
+37513000,37510000,Títeres
+37521000,37520000,Instrumentos musicales de juguete
+37522000,37520000,Juguetes con ruedas
+37523000,37520000,Puzzles
+37524000,37520000,Juegos
+37525000,37520000,Globos y pelotas
+37526000,37520000,Cubos de juguete
+37527000,37520000,Trenes y vehículos de juguete
+37528000,37520000,Armas de juguete
+37529000,37520000,Juguetes hinchables y de montar
+37531000,37530000,Naipes
+37532000,37530000,Videojuegos
+37533000,37530000,Billares
+37534000,37530000,Juegos accionados con monedas o fichas
+37535000,37530000,"Tiovivos, columpios, casetas de tiro y otras atracciones de feria"
+37821000,37820000,Pinceles para la pintura artística
+37822000,37820000,Lápices de dibujo
+37823000,37820000,Papel resistente a las grasas y otros artículos de papel
+38111000,38110000,Equipo de radiogoniometría
+38112000,38110000,Sextantes
+38113000,38110000,Sonares
+38114000,38110000,Ecosondas
+38115000,38110000,Aparatos de radar
+38121000,38120000,Anemómetros
+38122000,38120000,Barómetros
+38123000,38120000,Aparatos de registro de precipitaciones o evaporación
+38124000,38120000,Aparatos de radiosondeo
+38125000,38120000,Pluviógrafos
+38126000,38120000,Aparatos de observación en superficie
+38127000,38120000,Estaciones meteorológicas
+38128000,38120000,Accesorios para instrumentos meteorológicos
+38221000,38220000,Sistemas de información geográfica (SIG o equivalentes)
+38291000,38290000,Telémetros
+38292000,38290000,Instrumentos de hidrografía
+38293000,38290000,Equipo sísmico
+38294000,38290000,Teodolitos
+38295000,38290000,Equipo topográfico
+38296000,38290000,Instrumentos de geodesia
+38311000,38310000,Básculas electrónicas y sus accesorios
+38321000,38320000,Máquinas de dibujar
+38322000,38320000,Pantógrafos
+38323000,38320000,Reglas de cálculo
+38331000,38330000,Escuadras
+38341000,38340000,Aparatos para medir radiaciones
+38342000,38340000,Osciloscopios
+38343000,38340000,Instrumentos para control de errores
+38344000,38340000,Aparatos para el control de la polución
+38411000,38410000,Hidrómetros
+38412000,38410000,Termómetros
+38413000,38410000,Pirómetros
+38414000,38410000,Higrómetros
+38415000,38410000,Sicrómetros
+38416000,38410000,pH-metros
+38417000,38410000,Termopares
+38418000,38410000,Calorímetros
+38421000,38420000,Equipo de medida del caudal
+38422000,38420000,Equipo de medida del nivel
+38423000,38420000,Equipo de medida de la presión
+38424000,38420000,Equipo de medida y de control
+38425000,38420000,Equipo para la mecánica de fluidos
+38426000,38420000,Culombímetros
+38427000,38420000,Fluxómetros
+38428000,38420000,Reómetros
+38429000,38420000,Rotámetros
+38431000,38430000,Aparatos detectores
+38432000,38430000,Aparatos de análisis
+38433000,38430000,Espectrómetros
+38434000,38430000,Analizadores
+38435000,38430000,Aparatos de detección de fluidos
+38436000,38430000,Agitadores y sus accesorios
+38437000,38430000,Pipetas de laboratorio y sus accesorios
+38511000,38510000,Microscopios electrónicos
+38512000,38510000,Microscopios de iones y moleculares
+38513000,38510000,Microscopios invertidos y metalográficos
+38514000,38510000,Microscopios de campo oscuro y de sonda de barrido
+38515000,38510000,Microscopios de fluorescencia y polarizantes
+38516000,38510000,Microscopios ópticos compuestos monoculares o binoculares
+38517000,38510000,Microscopios acústicos y de proyección
+38518000,38510000,Microscopios de campo amplio y estereoscópicos
+38519000,38510000,Compuestos diversos para microscopios
+38521000,38520000,Escáneres de presión
+38522000,38520000,Escáneres cromatográficos
+38541000,38540000,Equipos de ensayo de soldabilidad
+38542000,38540000,Aparatos servohidráulicos de pruebas
+38543000,38540000,Equipo de detección de gases
+38544000,38540000,Aparatos detectores de drogas
+38545000,38540000,Kits para análisis de gases
+38546000,38540000,Sistema de detección de explosivos
+38547000,38540000,Sistema de dosimetría
+38548000,38540000,Instrumentos para vehículos
+38551000,38550000,Medidores de energía
+38552000,38550000,Contadores electrónicos
+38553000,38550000,Contadores magnéticos
+38554000,38550000,Contadores de electricidad
+38561000,38560000,Cuentavueltas
+38562000,38560000,Estroboscopios
+38571000,38570000,Limitadores de velocidad
+38581000,38580000,Equipo de escáner para equipajes
+38582000,38580000,Equipo de control por rayos X
+38621000,38620000,Aparatos de fibra óptica
+38622000,38620000,Espejos
+38623000,38620000,Filtros ópticos
+38624000,38620000,Ayudas ópticas
+38631000,38630000,Binoculares
+38632000,38630000,Gafas para visión nocturna
+38633000,38630000,Miras telescópicas
+38634000,38630000,Microscopios ópticos
+38635000,38630000,Telescopios
+38636000,38630000,Instrumentos ópticos especializados
+38641000,38640000,Periscopios
+38651000,38650000,Cámaras fotográficas
+38652000,38650000,Proyectores cinematográficos
+38653000,38650000,Aparatos para laboratorios fotográficos
+38654000,38650000,Equipo para microfilmes y microfichas
+38731000,38730000,Contadores accionados por fichas
+38821000,38820000,Aparatos de radiocontrol
+38822000,38820000,Dispositivos de telecontrol por sirenas
+38911000,38910000,Kits de ensayo de frotis manuales
+38912000,38910000,Kits de ensayo de frotis automatizados
+38921000,38920000,Analizadores de grano
+38922000,38920000,Contadores de semillas
+38923000,38920000,Analizadores de piensos
+38931000,38930000,Comprobadores de temperatura y humedad
+38932000,38930000,Medidores de humedad
+38941000,38940000,Contadores alfa
+38942000,38940000,Contadores alfa beta
+38943000,38940000,Contadores beta
+38944000,38940000,Contadores beta gamma
+38945000,38940000,Contadores gamma
+38946000,38940000,Contadores de kVc
+38947000,38940000,Microanalizadores para radiología
+38951000,38950000,Equipo para reacción en cadena de la polimerasa (PCR) en tiempo real
+39111000,39110000,Asientos
+39112000,39110000,Sillas
+39113000,39110000,Asientos y sillas diversos
+39114000,39110000,Partes de asientos
+39121000,39120000,Escritorios y mesas
+39122000,39120000,Armarios y librerías
+39131000,39130000,Estanterías de oficina
+39132000,39130000,Sistemas de archivo
+39133000,39130000,Expositores
+39134000,39130000,Mobiliario de informática
+39135000,39130000,Mesas de clasificación
+39136000,39130000,Perchas
+39137000,39130000,Ablandadores de agua
+39141000,39140000,Muebles y equipo de cocina
+39142000,39140000,Muebles de jardín
+39143000,39140000,"Muebles de dormitorio, comedor y cuarto de estar"
+39144000,39140000,Mobiliario de cuarto de baño
+39145000,39140000,Accesorios para bodegas
+39151000,39150000,Mobiliario diverso
+39152000,39150000,Estanterías móviles para libros
+39153000,39150000,Mobiliario para sala de conferencias
+39154000,39150000,Equipamiento de exposición
+39155000,39150000,Mobiliario de biblioteca
+39156000,39150000,Mobiliario de recepción y sala de espera
+39157000,39150000,Partes de muebles
+39161000,39160000,Mobiliario de jardín de infancia
+39162000,39160000,Equipamiento de enseñanza
+39171000,39170000,Vitrinas
+39172000,39170000,Mostradores
+39173000,39170000,Unidades de almacenamiento
+39174000,39170000,Rótulos comerciales
+39181000,39180000,Bancos de laboratorio
+39191000,39190000,Revestimientos de pared a base de papel o cartón
+39192000,39190000,Revestimientos textiles de pared
+39193000,39190000,Revestimientos de piso a base de papel o cartón
+39221000,39220000,Equipo de cocina
+39222000,39220000,Artículos para catering
+39223000,39220000,Cucharas y tenedores
+39224000,39220000,Escobas y cepillos y otros artículos de diversos tipos
+39225000,39220000,"Encendedores, artículos de material combustible, de pirotecnia, cerillas y combustibles líquidos o de gas licuado"
+39226000,39220000,"Garrafas, cajas de botellas, frascos y bobinas"
+39227000,39220000,Agujas de coser y tejer y dedales
+39234000,39230000,Cajas para compost
+39235000,39230000,Fichas
+39236000,39230000,Cabinas de pintura
+39237000,39230000,Postes indicadores del nivel de nieve
+39241000,39240000,Cuchillos y tijeras
+39254000,39250000,Relojería
+39261000,39260000,Bandejas de distribución
+39263000,39260000,Material de escritorio
+39264000,39260000,Accesorios para clasificadores de hojas intercambiables o para archivadores
+39265000,39260000,Corchetes y hebillas
+39291000,39290000,Material de lavandería
+39292000,39290000,Pizarras o tableros escolares con superficies o utensilios para escribir o dibujar
+39293000,39290000,Productos artificiales
+39294000,39290000,Aparatos y material diseñados para demostraciones
+39295000,39290000,Paraguas y sombrillas; bastones y bastones-asiento
+39296000,39290000,Artículos funerarios
+39297000,39290000,Suministros para cuartel
+39298000,39290000,"Estatuillas, objetos de adorno, marcos para fotografías o para cuadros y espejos"
+39299000,39290000,Artículos de cristal
+39311000,39310000,Equipo ligero de catering
+39312000,39310000,Equipo para preparación de comidas
+39313000,39310000,Equipo de hostelería
+39314000,39310000,Equipo para cocinas industriales
+39315000,39310000,Equipo de restaurante
+39341000,39340000,Equipo para la presión del gas
+39511000,39510000,Mantas y mantas de viaje
+39512000,39510000,Ropa de cama
+39513000,39510000,Ropa de mesa
+39514000,39510000,Ropa de tocador y de cocina
+39515000,39510000,"Cortinas, cortinajes, guardamalletas y estores de materia textil"
+39516000,39510000,Artículos de mobiliario
+39518000,39510000,Ropa de hospital
+39522000,39520000,"Lonas, velas para embarcaciones, tablas de vela o carros de vela, toldos, persianas, tiendas de campaña y artículos para acampar"
+39523000,39520000,Paracaídas
+39525000,39520000,Artículos textiles manufacturados diversos
+39531000,39530000,Alfombras
+39532000,39530000,Esteras
+39533000,39530000,Alfombrillas
+39534000,39530000,Alfombrado industrial
+39541000,39540000,"Cordaje, cuerda, bramante y redes"
+39542000,39540000,Trapos
+39561000,39560000,"Tul, encaje, cintas y galones, artículos de pasamanería y bordados"
+39562000,39560000,Fieltro
+39563000,39560000,"Guata de materias textiles, hilados, tejidos y artículos textiles para usos técnicos"
+39711000,39710000,Aparatos electrodomésticos destinados a los alimentos
+39712000,39710000,Aparatos electrodomésticos para el cuidado del cuerpo humano
+39713000,39710000,Aparatos electrodomésticos para la limpieza; alisadores
+39714000,39710000,Campanas aspirantes para extracción o reciclado
+39715000,39710000,Calentadores de agua y calefacción para edificios; equipo de instalación sanitaria
+39716000,39710000,Partes de aparatos electrodomésticos
+39717000,39710000,Ventiladores y aparatos de aire acondicionado
+39721000,39720000,Aparatos domésticos para cocinar o calentar
+39722000,39720000,"Partes de estufas, cocinas, calientaplatos y aparatos domésticos"
+39811000,39810000,Preparaciones para perfumar o desodorizar ambientes
+39812000,39810000,Betunes y cremas
+39813000,39810000,Pastas y polvos para fregar
+39821000,39820000,Limpiadores con amoniaco
+39822000,39820000,Limpiadores cáusticos
+39831000,39830000,Preparados para lavar
+39832000,39830000,Productos para el lavavajillas
+39833000,39830000,Productos contra el polvo
+39834000,39830000,Soluciones para limpiar joyas
+42111000,42110000,Motores (potencia motriz)
+42112000,42110000,Instalaciones de turbinas
+42113000,42110000,Partes de turbinas
+42121000,42120000,Máquinas y motores hidráulicos o neumáticos
+42122000,42120000,Bombas (equipos de bombeo)
+42123000,42120000,Compresores
+42124000,42120000,"Partes de bombas, compresores, máquinas o motores"
+42131000,42130000,"Grifos, llaves y válvulas"
+42132000,42130000,Partes de grifos y válvulas
+42141000,42140000,"Engranajes, ruedas de fricción y elementos de transmisión cilíndrico-rectos"
+42142000,42140000,Partes de ruedas de fricción y de elementos de transmisión
+42151000,42150000,Reactores nucleares
+42152000,42150000,Partes de reactores nucleares
+42161000,42160000,Calderas de agua caliente
+42162000,42160000,Calderas generadoras de vapor
+42163000,42160000,Generadores de vapor
+42164000,42160000,Instalaciones auxiliares para calderas
+42165000,42160000,Condensadores de vapor
+42211000,42210000,Máquinas y aparatos para la industria lechera
+42212000,42210000,Máquinas y aparatos para procesar cereales o legumbres secas
+42213000,42210000,Máquinas y aparatos usados para la producción de bebidas alcohólicas o jugos de frutas
+42214000,42210000,"Hornos de cocina, secadores para productos agrícolas y equipo para cocinar o calentar"
+42215000,42210000,Máquinas y aparatos para la preparación o la fabricación industrial de alimentos o bebidas
+42216000,42210000,Máquinas y aparatos para procesar tabaco
+42221000,42220000,Partes de máquinas y aparatos para procesar alimentos
+42222000,42220000,Partes de máquinas y aparatos para procesar bebidas
+42223000,42220000,Partes de máquinas y aparatos para procesar tabaco
+42341000,42340000,Hornos comerciales
+42411000,42410000,Polipastos y elevadores
+42412000,42410000,Tornos para los pozos de minas; tornos para el interior de las minas; cabrestantes
+42413000,42410000,Gatos y elevadores de vehículos
+42414000,42410000,"Grúas, pórticos móviles sobre neumáticos y carretillas grúa"
+42415000,42410000,"Carretillas elevadoras de horquilla, carretillas-automóviles, carretillas tractor de estación de ferrocarril"
+42416000,42410000,"Ascensores, montacargas de cajón de vía inclinada, aparatos de elevación, escaleras mecánicas y pasillos móviles"
+42417000,42410000,Elevadores y transportadores
+42418000,42410000,"Máquinas de elevación, manipulación, carga o descarga"
+42419000,42410000,Partes de equipos de elevación y manipulación
+42511000,42510000,Intercambiadores de calor y aparatos para la licuefacción de aire u otros gases
+42512000,42510000,Instalaciones de aire acondicionado
+42513000,42510000,Equipos de refrigeración y congelación
+42514000,42510000,Maquinaria y aparatos de filtrado o purificación de gases
+42515000,42510000,Caldera de calefacción urbana
+42521000,42520000,Equipo de extracción de humos
+42522000,42520000,Ventiladores de uso no doméstico
+42531000,42530000,Partes de equipos refrigeradores
+42532000,42530000,Partes de equipos congeladores
+42533000,42530000,Partes de bombas de calor
+42611000,42610000,Máquinas herramienta para usos especiales
+42612000,42610000,Centro de mecanizado
+42621000,42620000,Tornos
+42622000,42620000,Máquinas de roscar «terrajar o filetear»
+42623000,42620000,Máquinas para fresar
+42631000,42630000,Máquinas herramienta para acabado de metales
+42632000,42630000,Máquinas de control numérico para metales
+42633000,42630000,"Máquinas para curvar, plegar, enderezar o aplanar"
+42634000,42630000,Máquinas para forjar
+42635000,42630000,Máquinas para estampar
+42636000,42630000,Prensas
+42637000,42630000,"Máquinas herramienta para taladrar, mandrinar o fresar metales"
+42638000,42630000,Centro de mecanizado para trabajar metales
+42641000,42640000,"Máquinas herramienta para trabajar piedra, cerámica, hormigón o vidrio"
+42642000,42640000,"Máquinas herramienta para trabajar madera, hueso, corcho, caucho endurecido o plásticos duros"
+42651000,42650000,Herramientas manuales neumáticas
+42652000,42650000,Herramientas electromecánicas de uso manual
+42661000,42660000,Equipos de soldadura blanda y de soldadura fuerte
+42662000,42660000,Equipo de soldadura
+42663000,42660000,Máquina para templado de superficies
+42664000,42660000,Equipo de fusión
+42665000,42660000,Máquinas de metalización por aspersión de metal licuado
+42671000,42670000,Útiles portaherramientas
+42672000,42670000,Portapiezas para máquinas herramienta
+42673000,42670000,Dispositivos divisores especiales para máquinas herramienta
+42674000,42670000,Partes y accesorios de máquinas herramienta para trabajar metales
+42675000,42670000,Partes y accesorios de máquinas herramienta para trabajar materiales duros
+42676000,42670000,Partes de herramientas manuales
+42677000,42670000,Partes de herramientas neumáticas
+42711000,42710000,Máquinas para procesar materias textiles manufacturadas
+42712000,42710000,Máquinas para el hilado de materias textiles
+42713000,42710000,Telares
+42714000,42710000,Tricotosas
+42715000,42710000,Máquinas de coser
+42716000,42710000,Máquinas para lavar y para secar ropa y máquinas para limpieza en seco
+42717000,42710000,Equipo de planchado y plegado de ropa blanca
+42718000,42710000,Máquinas de acabado de textiles
+42912000,42910000,Maquinaria y aparatos para filtrar o depurar líquidos
+42913000,42910000,"Filtros de aceite, de carburante y de entrada de aire"
+42914000,42910000,Equipo de reciclado
+42921000,42920000,"Máquinas y aparatos para limpiar, llenar, empaquetar o envolver botellas y demás recipientes"
+42923000,42920000,Instrumentos y aparatos de pesar y balanzas
+42931000,42930000,Centrifugadoras
+42932000,42930000,Calandrias
+42933000,42930000,Máquinas automáticas distribuidoras
+42941000,42940000,Maquinaria para el tratamiento térmico de gases
+42942000,42940000,Hornos y accesorios
+42943000,42940000,Baños termostáticos y accesorios
+42952000,42950000,Partes de centrifugadoras
+42953000,42950000,Partes de calandrias
+42954000,42950000,Partes de máquinas laminadoras
+42955000,42950000,Partes de máquinas de filtrado
+42956000,42950000,Partes de máquinas depuradoras
+42957000,42950000,Partes de máquinas de pulverización
+42958000,42950000,Pesas para máquinas de pesaje
+42959000,42950000,Lavavajillas industriales
+42961000,42960000,Sistema de mando y control
+42962000,42960000,Equipo gráfico y de impresión
+42963000,42960000,Prensa para monedas
+42964000,42960000,Equipo de ofimática
+42965000,42960000,Equipo de procesamiento de la información
+42967000,42960000,Controlador
+42968000,42960000,Distribuidores
+42971000,42970000,Partes de lavavajillas
+42972000,42970000,Partes de máquinas de limpieza
+42973000,42970000,Partes de máquinas de llenado
+42974000,42970000,Partes de máquinas de empaquetado
+42975000,42970000,Partes de envolvedoras
+42981000,42980000,Generadores de ozono
+42991000,42990000,"Maquinaria para la producción de papel, la impresión y la encuadernación, y sus partes"
+42992000,42990000,Materiales eléctricos para usos especiales
+42993000,42990000,Maquinaria para la industria química
+42994000,42990000,Máquinas para trabajar caucho o plásticos
+42995000,42990000,Máquinas de limpieza diversas
+42996000,42990000,Máquinas y aparatos para tratamiento de aguas residuales
+42997000,42990000,Equipo para conducciones
+42998000,42990000,Sistema de recogida en paletas
+42999000,42990000,Aspiradoras y enceradoras de uso no doméstico
+43121000,43120000,Máquinas para la perforación de pozos
+43122000,43120000,Cortadoras y arrancadoras de carbón o roca
+43123000,43120000,Tuneladoras
+43124000,43120000,Máquinas perforadoras
+43125000,43120000,Maquinaria para excavación de pozos
+43131000,43130000,Plataformas flotantes de explotación
+43132000,43130000,Equipo de perforación para la extracción de petróleo
+43133000,43130000,Equipo para plataforma de petróleo
+43134000,43130000,Maquinaria para yacimientos de petróleo
+43135000,43130000,Equipo submarino
+43136000,43130000,Equipo situado en el fondo del pozo
+43211000,43210000,Bulldozers
+43212000,43210000,Empujadoras de ángulo
+43221000,43220000,Motoniveladoras
+43251000,43250000,"Palas cargadoras de carga frontal, con pala retroexcavadora"
+43252000,43250000,"Palas cargadoras de carga frontal, sin pala retroexcavadora"
+43261000,43260000,Palas mecánicas
+43262000,43260000,Maquinaria para excavación
+43311000,43310000,Martinetes
+43312000,43310000,Máquinas y aparatos para el acabado de superficies de carreteras
+43313000,43310000,Máquinas y turbinas quitanieves
+43314000,43310000,Arrancapilotes
+43315000,43310000,Compactadores
+43316000,43310000,Máquinas para tendido de cables
+43321000,43320000,Equipo de suspensión de puentes
+43322000,43320000,Equipo de desmantelamiento
+43323000,43320000,Equipo de irrigación
+43324000,43320000,Equipo de drenaje
+43325000,43320000,Equipo para parques y áreas de juego
+43327000,43320000,Equipo prefabricado
+43328000,43320000,Instalaciones hidráulicas
+43329000,43320000,Juegos de material
+43411000,43410000,Máquinas y aparatos para clasificar y cribar
+43412000,43410000,Máquinas para mezclar grava con asfalto
+43413000,43410000,Hormigoneras o mezcladores de mortero
+43414000,43410000,Amoladoras
+43415000,43410000,Moldes de fundición
+43611000,43610000,Partes de máquinas de perforación de pozos
+43612000,43610000,Partes de máquinas y aparatos para extracción en pozos
+43613000,43610000,Partes de cortadoras y arrancadoras de carbón o roca
+43614000,43610000,Partes de máquinas para perforar túneles o galerías
+43711000,43710000,Partes de maquinaria para laminado de metales
+43721000,43720000,Partes de máquinas de colar
+43811000,43810000,Máquinas lijadoras
+43812000,43810000,Equipo de aserrado
+44111000,44110000,Materiales para obras de construcción
+44112000,44110000,Estructuras de edificación diversas
+44113000,44110000,Materiales para la construcción de carreteras
+44114000,44110000,Hormigón
+44115000,44110000,Accesorios para la construcción
+44131000,44130000,Cámaras para aguas residuales
+44132000,44130000,Elementos para alcantarillas
+44133000,44130000,Cofias de hierro dúctil
+44134000,44130000,Curvas
+44141000,44140000,Conductos
+44142000,44140000,Marcos
+44143000,44140000,Palets
+44144000,44140000,Postes (construcción)
+44161000,44160000,Conducciones
+44162000,44160000,Canalizaciones
+44163000,44160000,Tuberías y accesorios
+44164000,44160000,Tubos de entubado y tubos de producción
+44165000,44160000,"Mangueras, tubos y manguitos"
+44166000,44160000,Material tubular para pozos de petróleo
+44167000,44160000,Accesorios diversos para tuberías
+44171000,44170000,Planchas (construcción)
+44172000,44170000,Hojas (construcción)
+44173000,44170000,Bandas
+44174000,44170000,Láminas
+44175000,44170000,Paneles
+44176000,44170000,Películas
+44191000,44190000,Materiales de madera diversos para construcción
+44192000,44190000,Otros materiales de construcción diversos
+44211000,44210000,Edificios prefabricados
+44212000,44210000,"Productos estructurales y partes correspondientes, excepto edificios prefabricados"
+44221000,44220000,"Ventanas, puertas y elementos conexos"
+44231000,44230000,Paneles prefabricados para cercas
+44232000,44230000,Vigas de madera para tejado
+44233000,44230000,Escaleras
+44311000,44310000,Alambre de cabos
+44312000,44310000,Alambre para cercas
+44313000,44310000,Malla metálica
+44315000,44310000,Hilo de máquina
+44316000,44310000,Ferretería
+44317000,44310000,Eslingas de hierro o de acero
+44318000,44310000,Conductores
+44321000,44320000,Cables
+44322000,44320000,Accesorios para cables
+44331000,44330000,Barras
+44332000,44330000,Varillas (construcción)
+44333000,44330000,Alambre
+44334000,44330000,Perfiles
+44411000,44410000,Aparatos sanitarios
+44421000,44420000,"Cajas fuertes, cajas de seguridad y puertas, blindadas o reforzadas"
+44422000,44420000,Buzones
+44423000,44420000,Artículos diversos
+44424000,44420000,Cajas y precintos para contadores
+44425000,44420000,"Arandelas, juntas, bandas, barras y morteros de relleno"
+44431000,44430000,Cubrejuntas
+44441000,44440000,Microesferas
+44442000,44440000,Cojinetes de rodillos
+44451000,44450000,Cospeles
+44452000,44450000,Depósitos para monedas de máquinas o aparatos que funcionan con monedas
+44461000,44460000,Estemples
+44462000,44460000,Puntales de mina
+44464000,44460000,Orugas
+44481000,44480000,Escaleras de plataforma
+44482000,44480000,Dispositivos contra incendios
+44511000,44510000,Herramientas manuales
+44512000,44510000,Herramientas manuales diversas
+44513000,44510000,Herramientas de pedal
+44514000,44510000,Mangos y piezas de herramientas
+44521000,44520000,Cerraduras y candados diversos
+44522000,44520000,"Cierres, partes de cerraduras y llaves"
+44523000,44520000,"Bisagras, guarniciones y accesorios"
+44531000,44530000,Elementos roscados de sujeción
+44532000,44530000,Elementos de sujeción sin roscar
+44533000,44530000,Elementos de sujeción de cobre
+44541000,44540000,Cadena articulada
+44542000,44540000,Partes de cadenas
+44611000,44610000,Cisternas
+44612000,44610000,Recipientes de gas licuado
+44613000,44610000,Grandes contenedores
+44614000,44610000,Barriles
+44615000,44610000,Recipientes a presión
+44616000,44610000,Bidones
+44617000,44610000,Cajas
+44618000,44610000,"Recipientes ligeros, tapones, tapas, cubas y tapaderas"
+44619000,44610000,Otros recipientes
+44621000,44620000,Radiadores y calderas
+44622000,44620000,Sistemas de termorrecuperación
+44811000,44810000,Pintura para señalización de carreteras
+44812000,44810000,Pinturas para pintura artística
+44831000,44830000,"Mástiques, plastes de relleno y masilla"
+44832000,44830000,Disolventes
+44911000,44910000,Mármol y piedra calcárea de construcción
+44912000,44910000,Diversas piedras de construcción
+44921000,44920000,Piedra caliza y yeso
+44922000,44920000,Creta y dolomita
+45111000,45110000,"Trabajos de demolición, explanación y limpieza del terreno"
+45112000,45110000,Trabajos de excavación y movimiento de tierras
+45113000,45110000,Trabajos a pie de obra
+45121000,45120000,Trabajos de perforación
+45122000,45120000,Trabajos de sondeo
+45211000,45210000,Trabajos de construcción de inmuebles de viviendas colectivas y unifamiliares
+45212000,45210000,"Trabajos de construcción de edificios relacionados con el ocio, los deportes, la cultura y el alojamiento y restaurantes"
+45213000,45210000,"Trabajos de construcción de locales comerciales, almacenes y edificios industriales, edificios relacionados con el transporte"
+45214000,45210000,Trabajos de construcción de edificios relacionados con la enseñanza y la investigación
+45215000,45210000,"Trabajos de construcción de edificios relacionados con la salud y los servicios sociales, de crematorios y aseos públicos"
+45216000,45210000,Trabajos de construcción de edificios relacionados con los servicios de orden público o con los servicios de emergencia y de edificios militares
+45217000,45210000,Trabajos de construcción de edificios inflables
+45221000,45220000,"Trabajos de construcción de puentes y túneles, pozos y pasos subterráneos"
+45222000,45220000,"Trabajos de construcción de obras de ingeniería, excepto puentes, túneles, pozos y pasos subterráneos"
+45223000,45220000,Trabajos de construcción de estructuras
+45231000,45230000,"Trabajos de construcción de tuberías, líneas de comunicación y líneas de conducción eléctrica"
+45232000,45230000,Obras auxiliares para tuberías y cables
+45233000,45230000,"Trabajos de construcción, cimentación y pavimentación de autopistas y carreteras"
+45234000,45230000,Trabajos de construcción de vías férreas y sistemas de transporte por cable
+45235000,45230000,"Trabajos de construcción de aeródromos, pistas de despegue y aterrizaje y superficies de maniobra"
+45236000,45230000,Trabajos de explanación
+45237000,45230000,Trabajos de construcción de escenarios
+45241000,45240000,Trabajos de construcción de instalaciones portuarias
+45242000,45240000,Trabajos de construcción de instalaciones de ocio ribereñas
+45243000,45240000,Obras de defensa costera
+45244000,45240000,Obras marítimas
+45245000,45240000,Trabajos de dragado y de bombeo para plantas depuradoras de agua
+45246000,45240000,Trabajos de regulación y control del caudal fluvial
+45247000,45240000,"Trabajos de construcción de represas, canales, acequias y acueductos"
+45248000,45240000,Trabajos de construcción de estructuras hidromecánicas
+45251000,45250000,Trabajos de construcción de centrales eléctricas y plantas de calefacción
+45252000,45250000,"Trabajos de construcción de plantas de tratamiento de aguas residuales, plantas depuradoras y plantas de incineración de desperdicios"
+45253000,45250000,Trabajos de construcción de plantas de tratamiento químico
+45254000,45250000,Trabajos de construcción para la minería y la industria
+45255000,45250000,Trabajos de construcción para la industria del petróleo y del gas
+45259000,45250000,Reparación y mantenimiento de instalaciones
+45261000,45260000,"Trabajos de construcción de cubiertas y estructuras de cerramiento, y trabajos conexos"
+45262000,45260000,Trabajos de construcción especializados distintos de los trabajos de techado
+45311000,45310000,Trabajos de instalación de cableado y accesorios eléctricos
+45312000,45310000,Instalación de sistemas de alarma y antenas
+45313000,45310000,Instalación de ascensores y escaleras mecánicas
+45314000,45310000,Instalación de equipo de telecomunicaciones
+45315000,45310000,Trabajos de instalación eléctrica de equipos de calefacción y otros equipos eléctricos para edificios
+45316000,45310000,Trabajos de instalación de sistemas de alumbrado y señalización
+45317000,45310000,Otros trabajos de instalación eléctrica
+45321000,45320000,Trabajos de aislamiento térmico
+45323000,45320000,Trabajos de aislamiento acústico
+45324000,45320000,Trabajos de colocación de cartón-yeso
+45331000,45330000,"Trabajos de instalación de calefacción, ventilación y aire acondicionado"
+45332000,45330000,Trabajos de instalación sanitaria y de colocación de tuberías de desagüe
+45333000,45330000,Trabajos de instalación de aparatos de gas
+45341000,45340000,Instalación de pasamanos
+45342000,45340000,Instalación de barandillas
+45343000,45340000,Trabajos de instalación de dispositivos de protección contra incendios
+45351000,45350000,Trabajos de instalación de ingeniería mecánica
+45421000,45420000,Trabajos de ebanistería
+45422000,45420000,Carpintería y ebanistería
+45431000,45430000,Trabajos de alicatado
+45432000,45430000,"Trabajos de pavimentación, revestimiento y empapelado de paredes"
+45441000,45440000,Trabajos de acristalamiento
+45442000,45440000,Aplicación de recubrimiento protector
+45443000,45440000,Trabajos de fachada
+45451000,45450000,Trabajos de decoración
+45452000,45450000,Trabajos de limpieza exterior de edificios
+45453000,45450000,Trabajos de revisión y reacondicionamiento
+45454000,45450000,Trabajos de reestructuración
+48121000,48120000,Paquetes de software de control del tránsito aéreo
+48131000,48130000,Paquetes de software de apoyo en tierra para la aviación
+48132000,48130000,Paquetes de software de ensayos para la aviación
+48151000,48150000,Sistema de control informático
+48161000,48160000,Sistema de gestión de biblioteca
+48211000,48210000,Paquetes de software de interconectividad de plataformas
+48212000,48210000,Paquetes de software de servidor de discos ópticos
+48213000,48210000,Paquetes de software para mejorar el sistema operativo
+48214000,48210000,Paquetes de software de sistemas operativos en red
+48215000,48210000,Paquetes de software de desarrolladores de redes
+48216000,48210000,Paquetes de software de emulación de terminal de conectividad de redes
+48217000,48210000,Paquetes de software de proceso de transacciones
+48218000,48210000,Paquetes de software de gestión de licencias
+48219000,48210000,Paquetes de software diversos de conexión en red
+48221000,48220000,Paquetes de software de navegación en Internet
+48222000,48220000,Paquetes de software de servidor web
+48223000,48220000,Paquetes de software de correo electrónico
+48224000,48220000,Paquetes de software de edición de páginas web
+48311000,48310000,Paquetes de software de gestión de documentos
+48312000,48310000,Paquetes de software de edición electrónica
+48313000,48310000,Paquetes de software de reconocimiento óptico de caracteres (OCR)
+48314000,48310000,Paquetes de software de reconocimiento vocal
+48315000,48310000,Paquetes de software de autoedición
+48316000,48310000,Paquetes de software de presentación
+48317000,48310000,Paquetes de software de tratamiento de textos
+48318000,48310000,Paquetes de software de escáner
+48319000,48310000,Correctores ortográficos
+48321000,48320000,Paquetes de software de diseño asistido por ordenador (DAO)
+48322000,48320000,Paquetes de software de gráficos
+48323000,48320000,Paquetes de software de fabricación asistida por ordenador (FAO)
+48324000,48320000,Paquetes de software de trazado de diagramas
+48325000,48320000,Paquetes de software de diseño de formularios
+48326000,48320000,Paquetes de software cartográfico
+48327000,48320000,Paquetes de software de dibujo y pintura
+48328000,48320000,Paquetes de software de tratamiento de imágenes
+48329000,48320000,Sistema de imágenes y archivo
+48331000,48330000,Paquetes de software de gestión de proyectos
+48332000,48330000,Paquetes de software de planificación
+48333000,48330000,Paquetes de software de gestión de contactos
+48411000,48410000,Paquetes de software de gestión de inversiones
+48412000,48410000,Paquetes de software de elaboración de declaraciones fiscales
+48421000,48420000,Paquetes de software de gestión de instalaciones
+48422000,48420000,«Suites» de paquetes de software
+48441000,48440000,Paquetes de software de análisis financiero
+48442000,48440000,Paquetes de software de sistemas financieros
+48443000,48440000,Paquetes de software de contabilidad
+48444000,48440000,Sistema de contabilidad
+48445000,48440000,Paquetes de software de gestión de relaciones con el consumidor
+48451000,48450000,Paquetes de software de planificación de recursos empresariales
+48461000,48460000,Paquetes de software analítico o científico
+48462000,48460000,Paquetes de software matemático o predictivo
+48463000,48460000,Paquetes de software estadístico
+48481000,48480000,Paquetes de software de ventas o mercadotecnia
+48482000,48480000,Paquetes de software de inteligencia empresarial
+48511000,48510000,Paquetes de software de comunicaciones de escritorio
+48512000,48510000,Paquetes de software de respuesta vocal interactiva
+48513000,48510000,Paquetes de software de módem
+48514000,48510000,Paquetes de software de acceso remoto
+48515000,48510000,Paquetes de software de videoconferencia
+48516000,48510000,Paquetes de software de intercambio
+48517000,48510000,Paquetes de software de TI
+48518000,48510000,Paquetes de software de emulación
+48519000,48510000,Paquetes de software de gestión de memoria
+48521000,48520000,Paquetes de software de edición de música o sonido
+48522000,48520000,Paquetes de software de teclado virtual
+48611000,48610000,Paquetes de software de bases de datos
+48612000,48610000,Sistema de gestión de base de datos
+48613000,48610000,Gestión electrónica de datos
+48614000,48610000,Sistema de recopilación de datos
+48621000,48620000,Paquetes de software de sistema operativo de unidad central
+48622000,48620000,Paquetes de software de sistema operativo de miniordenador
+48623000,48620000,Paquetes de software de sistema operativo de microordenador
+48624000,48620000,Paquetes de software de sistema operativo de ordenador personal (PC)
+48625000,48620000,Sistemas operativos de sistemas abiertos
+48626000,48620000,Paquetes de software de agrupamiento
+48627000,48620000,Paquetes de software de sistema operativo de tiempo real
+48628000,48620000,Arquitectura microcanal
+48731000,48730000,Paquetes de software de seguridad de archivos
+48732000,48730000,Paquetes de software de seguridad de datos
+48761000,48760000,Paquetes de software antivirus
+48771000,48770000,Paquetes de software de utilidades generales
+48772000,48770000,Utilidades de compresión
+48773000,48770000,Paquetes de software de utilidades de impresión
+48781000,48780000,Paquetes de software de gestión de sistemas
+48782000,48780000,Paquetes de software de gestión de almacenamiento
+48783000,48780000,Paquetes de software de gestión de contenido
+48811000,48810000,Sistema de correo electrónico
+48812000,48810000,Sistemas de información financiera
+48813000,48810000,Sistema de información al pasajero
+48814000,48810000,Sistemas de información médica
+48821000,48820000,Servidores de red
+48822000,48820000,Servidores de ordenador
+48823000,48820000,Servidores de fichero
+48824000,48820000,Servidores de impresora
+48825000,48820000,Servidores web
+48911000,48910000,Paquetes de software de juegos informáticos
+48912000,48910000,Juegos para la familia
+48913000,48910000,Salvapantallas
+48921000,48920000,Sistema de automatización
+48931000,48930000,Paquetes de software de formación
+48932000,48930000,Paquetes de software de entretenimiento
+48941000,48940000,Paquetes de software de diseños
+48942000,48940000,Paquetes de software de calendario
+48951000,48950000,Sistema de localización de barcos
+48952000,48950000,Sistemas de megafonía
+48961000,48960000,Controladores de ethernet
+48962000,48960000,Controladores de tarjetas de gráficos
+48971000,48970000,Paquetes de software para crear libretas de direcciones
+48972000,48970000,Paquetes de software de elaboración de etiquetas
+48981000,48980000,Paquetes de software de compilación
+48982000,48980000,Paquetes de software de gestión de la configuración
+48983000,48980000,Paquetes de software de desarrollo
+48984000,48980000,Herramientas de interfaz gráfica de usuario (GUI)
+48985000,48980000,Lenguajes de programación
+48986000,48980000,Paquetes de software de ensayo de programas
+48987000,48980000,Paquetes de software de depuración
+48991000,48990000,Paquetes de software de hoja de cálculo
+50111000,50110000,"Servicios de administración, reparación y mantenimiento de parque de vehículos"
+50112000,50110000,Servicios de reparación y mantenimiento de automóviles
+50113000,50110000,Servicios de reparación y mantenimiento de autobuses
+50114000,50110000,Servicios de reparación y mantenimiento de camiones
+50115000,50110000,Servicios de reparación y mantenimiento de motocicletas
+50116000,50110000,Servicios de mantenimiento y reparación relacionados con partes específicas de vehículos
+50117000,50110000,Servicios de transformación y reacondicionamiento de vehículos
+50118000,50110000,Servicios de auxilio de automóviles en carretera
+50211000,50210000,Servicios de reparación y mantenimiento de aeronaves
+50212000,50210000,Servicios de reparación y mantenimiento de helicópteros
+50221000,50220000,Servicios de reparación y mantenimiento de locomotoras
+50222000,50220000,Servicios de reparación y mantenimiento de material móvil
+50223000,50220000,Servicios de reacondicionamiento de locomotoras
+50224000,50220000,Servicios de reacondicionamiento de material móvil
+50225000,50220000,Servicios de mantenimiento de vías férreas
+50229000,50220000,Demolición de material móvil
+50232000,50230000,Servicios de mantenimiento de instalaciones de alumbrado público y semáforos
+50241000,50240000,Servicios de reparación y mantenimiento de buques
+50242000,50240000,Servicios de transformación de buques
+50243000,50240000,Servicios de demolición de buques
+50244000,50240000,Servicios de reacondicionamiento de buques o barcos
+50245000,50240000,Servicios de modernización de buques
+50246000,50240000,Servicios de mantenimiento de equipo portuario
+50311000,50310000,Mantenimiento y reparación de máquinas de contabilidad de oficina
+50312000,50310000,Mantenimiento y reparación de equipo informático
+50313000,50310000,Mantenimiento y reparación de máquinas de reprografía
+50314000,50310000,Servicios de reparación y mantenimiento de máquinas telecopiadoras
+50315000,50310000,Servicios de reparación y mantenimiento de contestadores telefónicos
+50316000,50310000,Mantenimiento y reparación de máquinas expendedoras de billetes
+50317000,50310000,Mantenimiento y reparación de máquinas de validación de billetes
+50321000,50320000,Servicios de reparación de ordenadores personales
+50322000,50320000,Servicios de mantenimiento de ordenadores personales
+50323000,50320000,Mantenimiento y reparación de periféricos informáticos
+50324000,50320000,Servicios de asistencia a ordenadores personales
+50331000,50330000,Servicios de reparación y mantenimiento de líneas de telecomunicación
+50332000,50330000,Servicios de mantenimiento de infraestructura de telecomunicaciones
+50333000,50330000,Servicios de mantenimiento de equipo de radiocomunicaciones
+50334000,50330000,Servicios de reparación y mantenimiento de equipos de telefonía por hilo y telegrafía por hilo
+50341000,50340000,Servicios de reparación y mantenimiento de equipos de televisión
+50342000,50340000,Servicios de reparación y mantenimiento de equipos de audio
+50343000,50340000,Servicios de reparación y mantenimiento de equipos de vídeo
+50344000,50340000,Servicios de reparación y mantenimiento de equipos ópticos
+50411000,50410000,Servicios de reparación y mantenimiento de aparatos de medida
+50412000,50410000,Servicios de reparación y mantenimiento de aparatos de pruebas
+50413000,50410000,Servicios de reparación y mantenimiento de aparatos de verificación
+50421000,50420000,Servicios de reparación y mantenimiento de equipos médicos
+50422000,50420000,Servicios de reparación y mantenimiento de equipos quirúrgicos
+50431000,50430000,Servicios de reparación y mantenimiento de relojes de pulsera
+50432000,50430000,Servicios de reparación y mantenimiento de relojes de pared
+50433000,50430000,Servicios de calibrado
+50511000,50510000,Servicios de reparación y mantenimiento de bombas
+50512000,50510000,Servicios de reparación y mantenimiento de válvulas
+50513000,50510000,Servicios de reparación y mantenimiento de grifos
+50514000,50510000,Servicios de reparación y mantenimiento de contenedores metálicos
+50531000,50530000,Servicios de reparación y mantenimiento de maquinaria no eléctrica
+50532000,50530000,"Servicios de reparación y mantenimiento de maquinaria eléctrica, aparatos y equipo asociado"
+50711000,50710000,Servicios de reparación y mantenimiento de equipos eléctricos de edificios
+50712000,50710000,Servicios de reparación y mantenimiento de equipos mecánicos de edificios
+50721000,50720000,Puesta a punto de instalaciones de calefacción
+50821000,50820000,Servicios de reparación de botas
+50822000,50820000,Servicios de reparación de zapatos
+50841000,50840000,Servicios de reparación y mantenimiento de armas
+50842000,50840000,Servicios de reparación y mantenimiento de sistemas de armas
+50881000,50880000,Servicios de reparación y mantenimiento de equipo de hostelería
+50882000,50880000,Servicios de reparación y mantenimiento de equipo de restaurante
+50883000,50880000,Servicios de reparación y mantenimiento de equipo de catering
+50884000,50880000,Servicios de reparación y mantenimiento de equipo de camping
+51111000,51110000,"Servicios de instalación de motores eléctricos, generadores y transformadores"
+51112000,51110000,Servicios de instalación de equipos de distribución y de control de electricidad
+51121000,51120000,Servicios de instalación de aparatos de ejercicio físico
+51122000,51120000,Servicios de instalación de mástiles de bandera
+51131000,51130000,Servicios de instalación de generadores de vapor
+51133000,51130000,Servicios de instalación de turbinas
+51134000,51130000,Servicios de instalación de compresores
+51135000,51130000,Servicios de instalación de hornos
+51141000,51140000,Servicios de instalación de motores de gasolina
+51142000,51140000,Servicios de instalación de motores diesel
+51143000,51140000,Servicios de instalación de motores de ferrocarril
+51144000,51140000,Servicios de instalación de motores de vehículos
+51145000,51140000,Servicios de instalación de motores marinos
+51146000,51140000,Servicios de instalación de motores de aeronaves
+51211000,51210000,Servicios de instalación de equipo de cronomedición
+51212000,51210000,Servicios de instalación de equipos de registro de asistencia. 
+51213000,51210000,Servicios de instalación de equipos de control horario (fechadores y contadores)
+51214000,51210000,Servicios de instalación de equipos de parquímetros
+51215000,51210000,Servicios de instalación de equipos meteorológicos
+51216000,51210000,Servicios de instalación de equipos geológicos
+51221000,51220000,Servicios de instalación de dispositivos de facturación automática en aeropuertos
+51311000,51310000,Servicios de instalación de equipo de radio
+51312000,51310000,Servicios de instalación de equipo de televisión
+51313000,51310000,Servicios de instalación de equipo de sonido
+51314000,51310000,Servicios de instalación de equipo de vídeo
+51321000,51320000,Servicios de instalación de radiotransmisores
+51322000,51320000,Servicios de instalación de transmisores de televisión
+51411000,51410000,Servicios de instalación de equipos de imaginería
+51412000,51410000,Servicios de instalación de equipos de odontología y sus especialidades
+51413000,51410000,Servicios de instalación de equipos de radioterapia
+51414000,51410000,Servicios de instalación de equipos de mecanoterapia
+51415000,51410000,Servicios de instalación de equipos de electroterapia
+51416000,51410000,Servicios de instalación de equipos de fisioterapia
+51511000,51510000,"Servicios de instalación de equipos de elevación y de manipulación, excepto ascensores y escaleras mecánicas"
+51514000,51510000,Servicios de instalación de maquinaria diversa de uso general
+51521000,51520000,Servicios de instalación de maquinaria agrícola
+51522000,51520000,Servicios de instalación de maquinaria forestal
+51541000,51540000,"Servicios de instalación de maquinaria para extracción, construcción y metalurgia"
+51542000,51540000,"Servicios de instalación de maquinaria para la elaboración de alimentos, bebidas y tabaco"
+51543000,51540000,"Servicios de instalación de maquinaria para la producción de textiles, prendas de vestir y cuero"
+51544000,51540000,Servicios de instalación de maquinaria para la producción de papel y cartón
+51545000,51540000,Servicios de instalación de buzones de exterior
+51611000,51610000,Servicios de instalación de ordenadores
+51612000,51610000,Servicios de instalación de equipo para procesamiento de la información
+55221000,55220000,Servicios para acampada con caravana
+55241000,55240000,Servicios de centros de vacaciones
+55242000,55240000,Servicios de hogares de vacaciones
+55243000,55240000,Servicios de colonias de vacaciones para niños
+55311000,55310000,Servicios de camareros de restaurante para clientela restringida
+55312000,55310000,Servicios de camareros de restaurante para clientela en general
+55321000,55320000,Servicios de preparación de comidas
+55322000,55320000,Servicios de elaboración de comidas
+55511000,55510000,Servicios de cantina y otros servicios de cafetería para clientela restringida
+55512000,55510000,Servicios de gestión de cantina
+55521000,55520000,Servicios de suministro de comidas para particulares
+55522000,55520000,Servicios de suministro de comidas para empresas de transporte
+55523000,55520000,Servicios de suministro de comidas para otras empresas e instituciones
+55524000,55520000,Servicios de suministro de comidas para escuelas
+60112000,60110000,Servicios de transporte por la vía pública
+60161000,60160000,Servicios de transporte de paquetes
+60171000,60170000,Alquiler de automóviles de pasajeros con conductor
+60172000,60170000,Alquiler de autobuses y autocares con conductor
+60181000,60180000,Alquiler de camiones con conductor
+60182000,60180000,Alquiler de vehículos industriales con conductor
+60183000,60180000,Alquiler de camionetas con conductor
+60411000,60410000,Servicios de transporte de correo aéreo regular
+60421000,60420000,Servicios de transporte de correo aéreo no regular
+60423000,60420000,Servicios chárter
+60424000,60420000,Alquiler de medios de transporte aéreo con tripulación
+60441000,60440000,Servicios de pulverización aérea
+60442000,60440000,Servicios de extinción aérea de incendios forestales
+60443000,60440000,Servicios de rescate aéreo
+60444000,60440000,Servicios de explotación de aeronaves
+60445000,60440000,Servicios de operación de aeronaves
+60651000,60650000,Alquiler de embarcaciones con tripulación
+60653000,60650000,Alquiler de barcos con tripulación
+63111000,63110000,Servicios de carga y descarga de contenedores
+63112000,63110000,Servicios de manipulación de equipajes
+63121000,63120000,Servicios de almacenamiento y recuperación
+63122000,63120000,Servicios de depósito
+63511000,63510000,Organización de viajes combinados
+63512000,63510000,Servicios de venta de billetes y de viajes combinados
+63513000,63510000,Servicios de información turística
+63514000,63510000,Servicios de guías de turismo
+63515000,63510000,Servicios de viajes
+63516000,63510000,Servicios de gestión de viajes
+63521000,63520000,Servicios de compañía de transporte de carga
+63522000,63520000,Servicios de corretaje marítimo
+63523000,63520000,Servicios de agencias portuarias y expedidoras
+63524000,63520000,Servicios de preparación de documentos de transporte
+63711000,63710000,Servicios complementarios para el transporte ferroviario
+63712000,63710000,Servicios complementarios para el transporte por carretera
+63721000,63720000,Servicios de explotación de puertos y vías de navegación y servicios asociados
+63722000,63720000,Servicios de pilotaje naval
+63723000,63720000,Servicios de atraque
+63724000,63720000,Servicios de navegación
+63725000,63720000,Servicios de salvamento y puesta a flote
+63726000,63720000,Servicios varios de soporte al transporte por vías navegables
+63727000,63720000,Servicios de embarcaciones de remolque y tracción
+63731000,63730000,Servicios de explotación de aeropuertos
+63732000,63730000,Servicios de control del tráfico aéreo
+63733000,63730000,Servicios de repostaje de aeronaves
+63734000,63730000,Servicios de hangares
+64111000,64110000,Servicios postales relacionados con periódicos y revistas
+64112000,64110000,Servicios postales relacionados con cartas
+64113000,64110000,Servicios postales relacionados con paquetes
+64114000,64110000,Servicios de ventanilla de correos
+64115000,64110000,Alquiler de apartados de correos
+64116000,64110000,Servicios de lista de correos
+64121000,64120000,Servicios multimodales de correo
+64122000,64120000,Servicios de correo interno
+64211000,64210000,Servicios de teléfonos públicos
+64212000,64210000,Servicios de telefonía móvil
+64213000,64210000,Servicios de redes telefónicas comerciales compartidas
+64214000,64210000,Servicios de redes telefónicas comerciales especializadas
+64215000,64210000,Servicios telefónicos PI
+64216000,64210000,Servicios de mensajería y de información electrónicas
+64221000,64220000,Servicios de interconexión
+64222000,64220000,Servicios de teletrabajo
+64223000,64220000,Servicios de radiobúsqueda
+64224000,64220000,Servicios de teleconferencia
+64225000,64220000,Servicios de telecomunicaciones aire-tierra
+64226000,64220000,Servicios de telemática
+64227000,64220000,Servicios de telecomunicaciones integradas
+64228000,64220000,Servicios de transmisión de programas de televisión y de radio
+65111000,65110000,Distribución de agua potable
+65121000,65120000,Servicios de desmineralización del agua
+65122000,65120000,Servicios de desalinización del agua
+65123000,65120000,Servicios de ablandamiento del agua
+66111000,66110000,Servicios prestados por los bancos centrales
+66112000,66110000,Servicios de depósito de fondos
+66113000,66110000,Servicios de concesión de crédito
+66114000,66110000,Servicios de arrendamiento financiero
+66115000,66110000,Servicios de transferencias internacionales
+66121000,66120000,Servicios de fusiones y adquisiciones
+66122000,66120000,Servicios de financiación de empresas y de capital riesgo
+66131000,66130000,Servicios de corretaje de valores
+66132000,66130000,Servicios de corretaje de mercancías
+66133000,66130000,Servicios de tramitación y liquidación
+66141000,66140000,Servicios de gestión de fondos de pensiones
+66151000,66150000,Servicios operativos del mercado financiero
+66152000,66150000,Servicios de regulación del mercado financiero
+66161000,66160000,Servicios fiduciarios
+66162000,66160000,Servicios de custodia
+66171000,66170000,Servicios de asesoramiento financiero
+66172000,66170000,Servicios de procesamiento de transacciones financieras y de cámara de compensación
+66511000,66510000,Servicios de seguros de vida
+66512000,66510000,Servicios de seguros de accidentes y de enfermedad
+66513000,66510000,Servicios de seguros de defensa jurídica y de seguros a todo riesgo
+66514000,66510000,Seguros de flete y servicios de seguros relacionados con el transporte
+66515000,66510000,Servicios de seguros de daños
+66516000,66510000,Servicios de seguros de responsabilidad civil
+66517000,66510000,Servicios de seguros de crédito y caución
+66518000,66510000,Servicios de corretaje y de agencias de seguros
+66519000,66510000,"Servicios de seguros de ingeniería, complementarios, de liquidación de avería gruesa, de liquidación de siniestros, actuariales y de rescates"
+66521000,66520000,Servicios de planes de pensiones individuales
+66522000,66520000,Servicios de pensiones de grupo
+66523000,66520000,Servicios de asesoramiento sobre fondos de pensiones
+70111000,70110000,Promoción de bienes raíces residenciales
+70112000,70110000,Promoción de bienes raíces no residenciales
+70121000,70120000,Servicios de compra o venta de edificios
+70122000,70120000,Servicios de compra o venta de terrenos
+70123000,70120000,Venta de bienes raíces
+70311000,70310000,Servicios de alquiler o venta de edificios residenciales
+70321000,70320000,Servicios de alquiler de terrenos
+70322000,70320000,Servicios de alquiler o venta de terrenos desocupados
+70331000,70330000,Servicios relacionados con propiedades residenciales
+70332000,70330000,Servicios relacionados con propiedades no residenciales
+70333000,70330000,Servicios relacionados con viviendas
+71221000,71220000,Servicios de arquitectura para edificios
+71222000,71220000,Servicios de arquitectura para instalaciones al aire libre
+71223000,71220000,Servicios de arquitectura para trabajos de ampliación de edificios
+71241000,71240000,"Estudio de viabilidad, servicios de asesoramiento, análisis"
+71242000,71240000,"Elaboración de proyectos y diseños, presupuestos"
+71243000,71240000,Anteproyectos (sistemas e integración)
+71244000,71240000,"Cálculo de costes, seguimiento de costes"
+71245000,71240000,"Proyectos presentados para aprobación, planos de ejecución y especificaciones"
+71246000,71240000,Determinación y listado de cantidades necesarias para la construcción
+71247000,71240000,Supervisión del trabajo de construcción
+71248000,71240000,Supervisión del proyecto y documentación
+71251000,71250000,Servicios de arquitectura y de planimetría de edificios
+71311000,71310000,Servicios de consultoría en ingeniería civil
+71312000,71310000,Servicios de consultoría en ingeniería de estructuras
+71313000,71310000,Servicios de consultoría en ingeniería ambiental
+71314000,71310000,Servicios de energía y servicios conexos
+71315000,71310000,Instalaciones técnicas de edificios
+71316000,71310000,Servicios de consultoría en telecomunicaciones
+71317000,71310000,Servicios de consultoría en protección y control de riesgos
+71318000,71310000,Servicios de asesoramiento y consultoría en ingeniería
+71319000,71310000,Servicios de peritaje
+71321000,71320000,Servicios de diseño técnico de instalaciones mecánicas y eléctricas para edificios
+71322000,71320000,Servicios de diseño técnico para la construcción de obras de ingeniería civil
+71323000,71320000,Servicios de diseño técnico del proceso y la producción industriales
+71324000,71320000,Servicios de estudio de dimensiones
+71325000,71320000,Servicios de proyecto de cimientos
+71326000,71320000,Servicios auxiliares de edificios
+71327000,71320000,Servicios de diseño de la estructura
+71328000,71320000,Servicios de verificación de la estructura
+71331000,71330000,Servicios de ingeniería en materia de lodos de perforación
+71332000,71330000,Servicios de ingeniería geotécnica
+71333000,71330000,Servicios de ingeniería mecánica
+71334000,71330000,Servicios de ingeniería mecánica y eléctrica
+71335000,71330000,Estudios de ingeniería
+71336000,71330000,Servicios complementarios de ingeniería
+71337000,71330000,Servicios técnicos de protección contra la corrosión
+71351000,71350000,"Servicios de prospección geológica, geofísica y otros tipos de prospección científica"
+71352000,71350000,Servicios de topografía subterránea
+71353000,71350000,Servicios de mediciones topográficas de superficie
+71354000,71350000,Servicios de cartografía
+71355000,71350000,Servicios de agrimensura
+71356000,71350000,Servicios técnicos
+71421000,71420000,Servicios de jardinería paisajística
+71521000,71520000,Servicios de supervisión del emplazamiento de la obra
+71541000,71540000,Servicios de gestión de proyectos de construcción
+71621000,71620000,Servicios de ensayo o consultoría técnicos
+71631000,71630000,Servicios de inspección técnica
+71632000,71630000,Servicios de ensayo técnico
+71731000,71730000,Servicios de control de calidad industrial
+72211000,72210000,Servicios de programación de sistemas y «software» de usuario
+72212000,72210000,Servicios de programación de «software» de aplicación
+72221000,72220000,Servicios de consultoría en análisis empresarial
+72222000,72220000,Servicios de planificación y revisión estratégica de sistemas de información o de tecnología de la información
+72223000,72220000,Servicios de revisión de las exigencias de tecnología de la información
+72224000,72220000,Servicios de consultoría en gestión de proyectos
+72225000,72220000,Servicios de evaluación y revisión de la garantía de calidad del sistema
+72226000,72220000,Servicios de consultoría en pruebas de aceptación del «software» del sistema
+72227000,72220000,Servicios de consultoría en integración de «software»
+72228000,72220000,Servicios de consultoría en integración del equipo informático
+72231000,72230000,Desarrollo de software para aplicaciones militares
+72232000,72230000,Desarrollo de «software» de procesamiento de transacciones y «software» personalizado
+72241000,72240000,Servicios de especificación de objetivos de diseños críticos
+72242000,72240000,Servicios de modelado de diseños
+72243000,72240000,Servicios de programación
+72244000,72240000,Servicios de creación de prototipos
+72245000,72240000,Servicios contractuales de programación y análisis de sistemas
+72246000,72240000,Servicios de consultoría en sistemas
+72251000,72250000,Servicios de recuperación en caso de catástrofe
+72252000,72250000,Servicios de archivo informático
+72253000,72250000,Servicios de unidad de asistencia y de apoyo
+72254000,72250000,Ensayo de software
+72261000,72260000,Servicios de apoyo al «software»
+72262000,72260000,Servicios de desarrollo de «software»
+72263000,72260000,Servicios de implementación de «software»
+72264000,72260000,Servicios de reproducción de «software»
+72265000,72260000,Servicios de configuración de «software»
+72266000,72260000,Servicios de consultoría en «software»
+72267000,72260000,Servicios de mantenimiento y reparación de software
+72268000,72260000,Servicios de suministro de «software»
+72311000,72310000,Servicios de tabulación de datos
+72312000,72310000,Servicios de introducción de datos
+72313000,72310000,Servicios de recogida de datos
+72314000,72310000,Servicios de recogida e intercalación de datos
+72315000,72310000,Servicios de gestión de redes de datos y servicios de apoyo
+72316000,72310000,Servicios de análisis de datos
+72317000,72310000,Servicios de almacenamiento de datos
+72318000,72310000,Servicios de transmisión de datos
+72319000,72310000,Servicios de suministro de datos
+72321000,72320000,Servicios de bases de datos con valor añadido
+72322000,72320000,Servicios de gestión de datos
+72411000,72410000,Proveedor de servicios de Internet (PSI)
+72412000,72410000,Proveedor de servicios de correo electrónico
+72413000,72410000,Servicios de diseño de sitios web WWW
+72414000,72410000,Proveedores de motores de búsqueda en la web
+72415000,72410000,Servicios de hospedaje de operación de sitios web WWW
+72416000,72410000,Proveedores de servicio de aplicaciones
+72417000,72410000,Nombres de dominio de Internet
+72421000,72420000,Servicios de desarrollo de aplicaciones cliente en Internet o intranet
+72422000,72420000,Servicios de desarrollo de aplicaciones servidor en Internet o intranet
+72511000,72510000,Servicios de «software» de gestión de redes
+72512000,72510000,Servicios de gestión de documentos
+72513000,72510000,Servicios de ofimática
+72514000,72510000,Servicios de gestión de instalaciones informáticas
+72541000,72540000,Servicios de expansión informática
+72591000,72590000,Elaboración de acuerdos de nivel de servicios
+72611000,72610000,Servicios de apoyo informático técnico
+73111000,73110000,Servicios de laboratorio de investigación
+73112000,73110000,Servicios de investigación marina
+73421000,73420000,Desarrollo de equipos de seguridad
+73422000,73420000,Desarrollo de armas de fuego y munición
+73423000,73420000,Desarrollo de vehículos militares
+73424000,73420000,Desarrollo de buques de guerra
+73425000,73420000,"Desarrollo de aeronaves militares, misiles y naves espaciales"
+73426000,73420000,Desarrollo de sistemas electrónicos militares
+73431000,73430000,Ensayo y evaluación de equipos de seguridad
+73432000,73430000,Ensayo y evaluación de armas de fuego y munición
+73433000,73430000,Ensayo y evaluación de vehículos militares
+73434000,73430000,Ensayo y evaluación de buques de guerra
+73435000,73430000,"Ensayo y evaluación de aeronaves militares, misiles y naves espaciales"
+73436000,73430000,Ensayo y evaluación de sistemas electrónicos militares
+75111000,75110000,Servicios ejecutivos y legislativos
+75112000,75110000,Servicios administrativos para operaciones comerciales
+75121000,75120000,Servicios administrativos educativos
+75122000,75120000,Servicios administrativos relacionados con la asistencia sanitaria
+75123000,75120000,Servicios administrativos de alojamiento
+75124000,75120000,"Servicios administrativos en el ámbito del recreo, la cultura y la religión"
+75125000,75120000,Servicios administrativos relacionados con asuntos turísticos
+75131000,75130000,Servicios gubernamentales
+75211000,75210000,Servicios de asuntos exteriores
+75221000,75220000,Servicios de defensa militar
+75222000,75220000,Servicios de defensa civil
+75231000,75230000,Servicios judiciales
+75241000,75240000,Servicios de seguridad pública
+75242000,75240000,Servicios públicos de seguridad ciudadana
+75251000,75250000,Servicios de los cuerpos de bomberos
+75252000,75250000,Servicios de rescate
+75311000,75310000,Prestaciones de enfermedad
+75312000,75310000,Prestaciones de maternidad
+75313000,75310000,Prestaciones de invalidez
+75314000,75310000,Prestaciones de indemnización por desempleo
+76111000,76110000,Servicios de regasificación
+76121000,76120000,Servicios de buceo en pozos submarinos
+76211000,76210000,Servicios de sujeción de tuberías colgantes
+76331000,76330000,Servicios de turbosondeo espiral
+76411000,76410000,Servicios de revestimiento de pozos
+76421000,76420000,Servicios de cementación de tuberías
+76422000,76420000,Servicios de cementación de obturadores
+76423000,76420000,Servicios de cementación con espuma
+76431000,76430000,Servicios de perforación de pozos
+76441000,76440000,Servicios de diagrafía de pozos entubados
+76442000,76440000,Servicios de diagrafía de pozos sin entubar
+76443000,76440000,Otros servicios de diagrafía
+76471000,76470000,Servicios de pruebas de fractura de pozos
+76472000,76470000,Servicios de inspección o pruebas de emplazamiento de pozos
+76473000,76470000,Servicios de pruebas de equipos de pozos
+76491000,76490000,Servicios de colmatado de pozos
+76492000,76490000,Servicios de posicionamiento de pozos
+76521000,76520000,Servicios de instalaciones en alta mar
+76522000,76520000,Servicios en alta mar de buques de apoyo logístico
+76531000,76530000,Servicios de diagrafía en fondo de pozo
+76532000,76530000,Servicios de bombeo de fondo de pozo
+76533000,76530000,Servicios de registro de fondo de pozo
+76534000,76530000,Servicios de ampliación de fondo de pozo
+76535000,76530000,Servicios de perforación de fondo de pozo
+76536000,76530000,Servicios de control de vibraciones de fondo de pozo
+76537000,76530000,Servicios de herramientas para fondo de pozo
+77111000,77110000,Alquiler de maquinaria agrícola con maquinista
+77112000,77110000,Alquiler de segadoras o equipo agrícola con maquinista
+77211000,77210000,Servicios relacionados con la explotación forestal
+77231000,77230000,Servicios de gestión forestal
+77311000,77310000,Servicios de mantenimiento de jardines y parques
+77312000,77310000,Servicios de desbrozo
+77313000,77310000,Servicios de mantenimiento de parques
+77314000,77310000,Servicios de mantenimiento de terrenos
+77315000,77310000,Trabajos de siembra
+77341000,77340000,Poda de árboles
+77342000,77340000,Poda de setos
+79111000,79110000,Servicios de asesoría jurídica
+79112000,79110000,Servicios de representación jurídica
+79121000,79120000,Servicios de consultoría en derechos de autor
+79131000,79130000,Servicios de documentación
+79132000,79130000,Servicios de certificación
+79211000,79210000,Servicios de contabilidad
+79212000,79210000,Servicios de auditoría
+79221000,79220000,Servicios de asesoramiento tributario
+79222000,79220000,Servicios de preparación de declaraciones de impuestos
+79223000,79220000,Servicios de agente de aduanas
+79311000,79310000,Servicios de estudios
+79312000,79310000,Servicios de control de mercado
+79313000,79310000,Servicios de verificación de comportamiento
+79314000,79310000,Estudio de viabilidad
+79315000,79310000,Servicios de investigación social
+79341000,79340000,Servicios de publicidad
+79342000,79340000,Servicios de marketing
+79411000,79410000,Servicios generales de consultoría en gestión
+79412000,79410000,Servicios de consultoría en gestión financiera
+79413000,79410000,Servicios de consultoría en gestión de marketing
+79414000,79410000,Servicios de consultoría en gestión de recursos humanos
+79415000,79410000,Servicios de consultoría en gestión de la producción
+79416000,79410000,Servicios de relaciones públicas
+79417000,79410000,Servicios de consultoría en seguridad
+79418000,79410000,Servicios de consultoría en aprovisionamiento
+79419000,79410000,Servicios de consultoría en evaluación
+79421000,79420000,Servicios de gestión de proyectos que no sean los de construcción
+79422000,79420000,Servicios de arbitraje y conciliación
+79511000,79510000,Servicios de operador telefónico
+79512000,79510000,Centro de llamadas
+79521000,79520000,Servicios de fotocopia
+79551000,79550000,Servicios de mecanografía
+79552000,79550000,Servicios de tratamiento de textos
+79553000,79550000,Servicios de autoedición
+79571000,79570000,Servicios de envío por correo
+79611000,79610000,Servicios de búsqueda de trabajo
+79612000,79610000,Servicios de colocación de personal de apoyo para oficinas
+79613000,79610000,Servicios de reubicación de empleados
+79621000,79620000,Servicios de suministro de personal para oficinas
+79622000,79620000,Servicios de suministro de personal doméstico
+79623000,79620000,Servicios de suministro de personal para el comercio o la industria
+79624000,79620000,Servicios de suministro de personal de enfermería
+79625000,79620000,Servicios de suministro de personal médico
+79631000,79630000,Servicios de personal y de nóminas
+79632000,79630000,Servicios de formación de personal
+79633000,79630000,Servicios de desarrollo del personal
+79634000,79630000,Servicios de orientación profesional
+79635000,79630000,Servicios de centros de evaluación para selección de personal
+79711000,79710000,Servicios de vigilancia de sistemas de alarma
+79713000,79710000,Servicios de guardias de seguridad
+79714000,79710000,Servicios de vigilancia
+79715000,79710000,Servicios de patrullas
+79716000,79710000,Servicios de expedición de distintivos de identificación
+79721000,79720000,Servicios de agencia de detectives
+79722000,79720000,Servicios de grafología
+79723000,79720000,Servicios de análisis de residuos
+79811000,79810000,Servicios de impresión digital
+79812000,79810000,Servicios de impresión de billetes de banco
+79821000,79820000,Servicios de acabado de impresiones
+79822000,79820000,Servicios de composición
+79823000,79820000,Servicios de impresión y entrega
+79824000,79820000,Servicios de impresión y distribución
+79921000,79920000,Servicios de empaquetado
+79931000,79930000,Servicios de decoración de interiores
+79932000,79930000,Servicios de diseño de interiores
+79933000,79930000,Servicios de apoyo al diseño
+79934000,79930000,Servicios de diseño de mobiliario
+79941000,79940000,Servicios de peajes
+79951000,79950000,Servicio de organización de seminarios
+79952000,79950000,Servicios de eventos
+79953000,79950000,Servicios de organización de festivales
+79954000,79950000,Servicios de organización de fiestas
+79955000,79950000,Servicios de organización de desfiles de modas
+79956000,79950000,Servicios de organización de ferias y exposiciones
+79957000,79950000,Servicios de organización de subastas
+79961000,79960000,Servicios de fotografía
+79962000,79960000,Servicios de revelado fotográfico
+79963000,79960000,"Servicios de restauración, copia y retocado de fotografías"
+79971000,79970000,Servicios de encuadernación y acabado de libros
+79972000,79970000,Servicios de edición de diccionarios lingüísticos
+79991000,79990000,Servicios de control de existencias
+79992000,79990000,Servicios de recepción
+79993000,79990000,Servicios de gestión de edificios e instalaciones
+79994000,79990000,Servicios de administración de contratos
+79995000,79990000,Servicios de gestión de bibliotecas
+79996000,79990000,Servicios de organización de empresas
+79997000,79990000,Servicios de viajes de negocios
+79998000,79990000,Servicios de autocar
+79999000,79990000,Servicios de escaneado y facturación
+80211000,80210000,Servicios de enseñanza secundaria técnica
+80212000,80210000,Servicios de enseñanza secundaria profesional
+80411000,80410000,Servicios de autoescuela
+80412000,80410000,Servicios de escuela de aviación
+80413000,80410000,Servicios de escuela de vela
+80414000,80410000,Servicios de escuela de buceo
+80415000,80410000,Servicios de entrenamiento de esquí
+80511000,80510000,Servicios de formación del personal
+80512000,80510000,Servicios de adiestramiento de perros
+80513000,80510000,Servicios de escuelas de hípica
+80521000,80520000,Servicios de programación de la formación
+80522000,80520000,Seminarios de formación
+80531000,80530000,Servicios de formación industrial y técnica
+80532000,80530000,Servicios de formación en materia de gestión
+80533000,80530000,Servicios de familiarización y formación para el usuario de ordenadores
+80561000,80560000,Servicios de formación en materia de salud
+80562000,80560000,Servicios de formación en materia de primeros auxilios
+85111000,85110000,Servicios hospitalarios
+85112000,85110000,Servicios de asistencia hospitalaria
+85121000,85120000,Servicios de ejercicio de la medicina
+85131000,85130000,Servicios de odontología
+85141000,85140000,Servicios prestados por personal médico
+85142000,85140000,Servicios paramédicos
+85143000,85140000,Servicios de ambulancia
+85144000,85140000,Servicios de instituciones residenciales de salud
+85145000,85140000,Servicios prestados por laboratorios médicos
+85146000,85140000,Servicios prestados por bancos de sangre
+85147000,85140000,Servicios de sanidad de las empresas
+85148000,85140000,Servicios de análisis médicos
+85149000,85140000,Servicios farmacéuticos
+85171000,85170000,Servicios de acupuntura
+85172000,85170000,Servicios de quiropráctica
+85311000,85310000,Servicios de asistencia social con alojamiento
+85312000,85310000,Servicios de asistencia social sin alojamiento
+85321000,85320000,Servicios sociales administrativos
+85322000,85320000,Programa de acción municipal
+85323000,85320000,Servicio municipal de salud
+90481000,90480000,Explotación de una planta de tratamiento de aguas residuales
+90491000,90490000,Servicios de inspección de alcantarillas
+90492000,90490000,Servicios de consultoría en tratamiento de aguas residuales
+90511000,90510000,Servicios de recogida de desperdicios
+90512000,90510000,Servicios de transporte de desperdicios
+90513000,90510000,Servicios de tratamiento y eliminación de desperdicios y residuos no peligrosos
+90514000,90510000,Servicios de reciclado de desperdicios
+90521000,90520000,Servicios de tratamiento de desechos radiactivos
+90522000,90520000,Servicios relacionados con los terrenos contaminados
+90523000,90520000,"Servicios de eliminación de desechos tóxicos, excepto desechos radiactivos y terrenos contaminados"
+90524000,90520000,Servicios relacionados con los desechos médicos
+90531000,90530000,Servicios de gestión de vertederos públicos
+90532000,90530000,Servicios de gestión de escoriales
+90533000,90530000,Servicios de gestión de vertederos
+90611000,90610000,Servicios de limpieza de calles
+90612000,90610000,Servicios de barrido de calles
+90641000,90640000,Servicios de limpieza de sumideros
+90642000,90640000,Servicios de vaciado de sumideros
+90711000,90710000,Evaluación del impacto medioambiental que no sea para la construcción
+90712000,90710000,Planificación medioambiental
+90713000,90710000,Servicios de asesoramiento sobre asuntos ambientales
+90714000,90710000,Auditoría medioambiental
+90715000,90710000,Servicios de estudio de la contaminación
+90721000,90720000,Servicios de seguridad medioambiental
+90722000,90720000,Rehabilitación medioambiental
+90731000,90730000,Servicios relacionados con la contaminación atmosférica
+90732000,90730000,Servicios relacionados con la contaminación del suelo
+90733000,90730000,Servicios relacionados con la contaminación del agua
+90741000,90740000,Servicios relacionados con la contaminación por hidrocarburos
+90742000,90740000,Servicios relacionados con la contaminación acústica
+90743000,90740000,Servicios relacionados con la contaminación de sustancias tóxicas
+90911000,90910000,"Servicios de limpieza de viviendas, edificios y ventanas"
+90912000,90910000,Servicios de limpieza de estructuras tubulares por chorro de arena o de perdigones
+90913000,90910000,Servicios de limpieza de tanques y depósitos
+90914000,90910000,Servicios de limpieza de aparcamientos
+90915000,90910000,Servicios de limpieza de hornos y chimeneas
+90916000,90910000,Servicios de limpieza de equipos telefónicos
+90917000,90910000,Servicios de limpieza de medios de transporte
+90918000,90910000,Servicio de limpieza de cubos de basura
+90919000,90910000,"Servicios de limpieza de oficinas, escuelas y equipo de oficina"
+90921000,90920000,Servicios de desinfección y exterminio
+90922000,90920000,Servicios de control de plagas
+90923000,90920000,Servicios de desratización
+90924000,90920000,Servicios de fumigación
+92111000,92110000,Servicios de producción de películas de cine y vídeo
+92112000,92110000,Servicios relacionados con la producción de películas cinematográficas y videocintas
+92121000,92120000,Servicios de distribución de videocintas
+92122000,92120000,Servicios de distribución de películas cinematográficas
+92211000,92210000,Servicios de producción radiofónica
+92213000,92210000,Servicios de sistemas de radio de corto alcance
+92214000,92210000,Servicios de equipos o estudios radiofónicos
+92215000,92210000,Servicios de radio móvil general (GMRS)
+92216000,92210000,Servicios de radio familiar (FRS)
+92217000,92210000,Servicios de radio móvil general/Servicios de radio familiar (GMRS/FRS)
+92221000,92220000,Servicios de producción de televisión
+92222000,92220000,Servicios de televisión en circuito cerrado
+92224000,92220000,Televisión digital
+92225000,92220000,Televisión interactiva
+92226000,92220000,Teleprogramación
+92231000,92230000,Servicios bilaterales internacionales y líneas privadas internacionales arrendadas
+92232000,92230000,Televisión por cable
+92311000,92310000,Obras de arte
+92312000,92310000,Servicios artísticos
+92331000,92330000,Servicios de ferias y parques de atracciones
+92332000,92330000,Servicios de playas
+92341000,92340000,Servicios de circo
+92342000,92340000,Servicios de enseñanza de baile
+92351000,92350000,Servicios de juegos de azar
+92352000,92350000,Servicios de apuestas
+92511000,92510000,Servicios de bibliotecas
+92512000,92510000,Servicios de archivos
+92521000,92520000,Servicios de museos
+92522000,92520000,Servicios de preservación de lugares y edificios históricos
+92531000,92530000,Servicios de jardines botánicos
+92532000,92530000,Servicios de jardines zoológicos
+92533000,92530000,Servicios de reservas naturales
+92534000,92530000,Servicios de preservación de la vida silvestre
+92621000,92620000,Servicios de promoción de espectáculos deportivos
+92622000,92620000,Servicios de organización de espectáculos deportivos
+98111000,98110000,Servicios proporcionados por organizaciones comerciales
+98112000,98110000,Servicios prestados por organizaciones profesionales
+98113000,98110000,Servicios proporcionados por organizaciones especializadas
+98131000,98130000,Servicios religiosos
+98132000,98130000,Servicios prestados por organizaciones políticas
+98133000,98130000,Servicios prestados por asociaciones de carácter social
+98311000,98310000,Servicios de recogida de lavandería
+98312000,98310000,Servicios de limpieza de artículos textiles
+98313000,98310000,Servicios de limpieza de artículos de piel
+98314000,98310000,Servicios de coloración
+98315000,98310000,Servicios de planchado
+98316000,98310000,Servicios de teñido
+98321000,98320000,Servicios de peluquería
+98322000,98320000,Servicios de tratamiento de belleza
+98331000,98330000,Servicios de baños turcos
+98332000,98330000,Servicios de balneario
+98333000,98330000,Servicios de masajes
+98334000,98330000,Servicios de bienestar físico
+98336000,98330000,"Servicios de entrenamiento, ejercicio o aeróbic"
+98341000,98340000,Servicios de alojamiento
+98342000,98340000,Servicios relativos al entorno de trabajo
+98351000,98350000,Servicios de gestión de aparcamientos
+98361000,98360000,Servicios relacionados con la flora y fauna marina
+98362000,98360000,Servicios de gestión de puertos
+98363000,98360000,Servicios de buceo
+98371000,98370000,Servicios funerarios
+98391000,98390000,Servicios de desmantelamiento
+98392000,98390000,Servicios de traslado
+98393000,98390000,Servicios de sastrería
+98394000,98390000,Servicios de tapicería
+98395000,98390000,Servicios de cerrajería
+98396000,98390000,Servicios de afinación de instrumentos
+98511000,98510000,Servicios de trabajadores del comercio
+98512000,98510000,Servicios de trabajadores de la industria
+98513000,98510000,Servicios de mano de obra para particulares
+98514000,98510000,Servicios domésticos
