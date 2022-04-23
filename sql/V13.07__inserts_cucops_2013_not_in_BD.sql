@@ -1,0 +1,83 @@
+--inserts partida_genrica
+insert into partida_especifica (id_partida_especifica, id_partida_generica, descripcion) values (21800, 2180, 'Materiales para el registro e identificación de bienes y personas');
+insert into partida_especifica (id_partida_especifica, id_partida_generica, descripcion) values (33200, 3320, 'Servicios de diseño, arquitectura, ingeniería y actividades relacionadas');
+insert into partida_especifica (id_partida_especifica, id_partida_generica, descripcion) values (51400, 5140, 'Objetos de valor');
+insert into partida_especifica (id_partida_especifica, id_partida_generica, descripcion) values (57900, 5790, 'Otros activos biológicos');
+insert into partida_especifica (id_partida_especifica, id_partida_generica, descripcion) values (59200, 5920, 'Patentes');
+insert into partida_especifica (id_partida_especifica, id_partida_generica, descripcion) values (59300, 5930, 'Marcas');
+insert into partida_especifica (id_partida_especifica, id_partida_generica, descripcion) values (59700, 5970, 'Licencias informáticas e intelectuales');
+insert into partida_especifica (id_partida_especifica, id_partida_generica, descripcion) values (59900, 5990, 'Otros activos intangibles');
+
+--inserts cucops
+insert into cucop (id_cucop, id_partida_especifica, id_partida_generica, id_concepto, id_capitulo, descripcion) values (21800, 21800, 2180, 2100, 2000, 'Materiales para el registro e identificación de bienes y personas');
+insert into cucop (id_cucop, id_partida_especifica, id_partida_generica, id_concepto, id_capitulo, descripcion) values (33200, 33200, 3320, 3300, 3000, 'Servicios de diseño, arquitectura, ingeniería y actividades relacionadas');
+insert into cucop (id_cucop, id_partida_especifica, id_partida_generica, id_concepto, id_capitulo, descripcion) values (51400, 51400, 5140, 5100, 5000, 'Objetos de valor');
+insert into cucop (id_cucop, id_partida_especifica, id_partida_generica, id_concepto, id_capitulo, descripcion) values (57900, 57900, 5790, 5700, 5000, 'Otros activos biológicos');
+insert into cucop (id_cucop, id_partida_especifica, id_partida_generica, id_concepto, id_capitulo, descripcion) values (59200, 59200, 5920, 5900, 5000, 'Patentes');
+insert into cucop (id_cucop, id_partida_especifica, id_partida_generica, id_concepto, id_capitulo, descripcion) values (59300, 59300, 5930, 5900, 5000, 'Marcas');
+insert into cucop (id_cucop, id_partida_especifica, id_partida_generica, id_concepto, id_capitulo, descripcion) values (59700, 59700, 5970, 5900, 5000, 'Licencias informáticas e intelectuales');
+insert into cucop (id_cucop, id_partida_especifica, id_partida_generica, id_concepto, id_capitulo, descripcion) values (59900, 59900, 5990, 5900, 5000, 'Otros activos intangibles');
+
+--inserts consecutivos
+insert into consecutivo (id_consecutivo, id_partida_especifica, cucop_plus, descripcion) values (21100168, 21101, '21101-0168', 'Pódium madera');
+insert into consecutivo (id_consecutivo, id_partida_especifica, cucop_plus, descripcion) values (21600003, 21601, '21601-0003', 'Anticongelante');
+insert into consecutivo (id_consecutivo, id_partida_especifica, cucop_plus, descripcion) values (21600064, 21601, '21601-0064', 'Gel (Medico quirúrgico)');
+insert into consecutivo (id_consecutivo, id_partida_especifica, cucop_plus, descripcion) values (21800001, 21800, '21800-0001', 'Placa');
+insert into consecutivo (id_consecutivo, id_partida_especifica, cucop_plus, descripcion) values (22100356, 22104, '22104-0356', 'Lácteos');
+insert into consecutivo (id_consecutivo, id_partida_especifica, cucop_plus, descripcion) values (22100369, 22104, '22104-0369', 'Pimienta');
+insert into consecutivo (id_consecutivo, id_partida_especifica, cucop_plus, descripcion) values (24100185, 24101, '24101-0185', 'Tierra negra');
+insert into consecutivo (id_consecutivo, id_partida_especifica, cucop_plus, descripcion) values (24600097, 24601, '24601-0097', 'Luminaria');
+insert into consecutivo (id_consecutivo, id_partida_especifica, cucop_plus, descripcion) values (24800041, 24801, '24801-0041', 'Árbol (ornamental)');
+insert into consecutivo (id_consecutivo, id_partida_especifica, cucop_plus, descripcion) values (24800044, 24801, '24801-0044', 'Planta (ornamental)');
+insert into consecutivo (id_consecutivo, id_partida_especifica, cucop_plus, descripcion) values (24800052, 24801, '24801-0052', 'Pañuelos desechables');
+insert into consecutivo (id_consecutivo, id_partida_especifica, cucop_plus, descripcion) values (25100045, 25101, '25101-0045', 'Perfumes y cosméticos');
+insert into consecutivo (id_consecutivo, id_partida_especifica, cucop_plus, descripcion) values (26100024, 26102, '26102-0024', 'Gasolina (vales)');
+insert into consecutivo (id_consecutivo, id_partida_especifica, cucop_plus, descripcion) values (33200001, 33200, '33200-0001', 'Servicios de diseño');
+insert into consecutivo (id_consecutivo, id_partida_especifica, cucop_plus, descripcion) values (33200002, 33200, '33200-0002', 'Servicios de arquitectura');
+insert into consecutivo (id_consecutivo, id_partida_especifica, cucop_plus, descripcion) values (33200003, 33200, '33200-0003', 'Servicios de ingeniería');
+insert into consecutivo (id_consecutivo, id_partida_especifica, cucop_plus, descripcion) values (51300290, 51301, '51301-0290', 'Polígrafo con estuche');
+insert into consecutivo (id_consecutivo, id_partida_especifica, cucop_plus, descripcion) values (51400001, 51400, '51400-0001', 'Metales y Piedras Preciosas');
+insert into consecutivo (id_consecutivo, id_partida_especifica, cucop_plus, descripcion) values (51400002, 51400, '51400-0002', 'Antigüedades y Otros Objetos de Arte');
+insert into consecutivo (id_consecutivo, id_partida_especifica, cucop_plus, descripcion) values (51900022, 51901, '51901-0022', 'Asta bandera');
+insert into consecutivo (id_consecutivo, id_partida_especifica, cucop_plus, descripcion) values (51900119, 51901, '51901-0119', 'Extinguidor  ');
+insert into consecutivo (id_consecutivo, id_partida_especifica, cucop_plus, descripcion) values (51900220, 51901, '51901-0220', 'Portabanderas');
+insert into consecutivo (id_consecutivo, id_partida_especifica, cucop_plus, descripcion) values (53100343, 53101, '53101-0343', 'Soporte metálico con tenazas');
+insert into consecutivo (id_consecutivo, id_partida_especifica, cucop_plus, descripcion) values (56200073, 56201, '56201-0073', 'Calderas de tubos de agua de calefacción');
+insert into consecutivo (id_consecutivo, id_partida_especifica, cucop_plus, descripcion) values (57900001, 57900, '57900-0001', 'Semen (animales vivos)');
+insert into consecutivo (id_consecutivo, id_partida_especifica, cucop_plus, descripcion) values (57900002, 57900, '57900-0002', 'Activos Biológicos Cultivados');
+insert into consecutivo (id_consecutivo, id_partida_especifica, cucop_plus, descripcion) values (59200001, 59200, '59200-0001', 'Derechos Patentados');
+insert into consecutivo (id_consecutivo, id_partida_especifica, cucop_plus, descripcion) values (59300001, 59300, '59300-0001', 'Marcas');
+insert into consecutivo (id_consecutivo, id_partida_especifica, cucop_plus, descripcion) values (59700001, 59700, '59700-0001', 'Licencias de uso programas de computo');
+insert into consecutivo (id_consecutivo, id_partida_especifica, cucop_plus, descripcion) values (59900001, 59900, '59900-0001', 'Activos Intangibles No Producidos de Origen Natural');
+
+--inserts cucops
+insert into cucop (id_cucop, id_partida_especifica, id_partida_generica, id_concepto, id_capitulo, descripcion) values (21100168, 21101, 2110, 2100, 2000, 'Pódium madera');
+insert into cucop (id_cucop, id_partida_especifica, id_partida_generica, id_concepto, id_capitulo, descripcion) values (21600003, 21601, 2160, 2100, 2000, 'Anticongelante');
+insert into cucop (id_cucop, id_partida_especifica, id_partida_generica, id_concepto, id_capitulo, descripcion) values (21600064, 21601, 2160, 2100, 2000, 'Gel (Medico quirúrgico)');
+insert into cucop (id_cucop, id_partida_especifica, id_partida_generica, id_concepto, id_capitulo, descripcion) values (21800001, 21800, 2180, 2100, 2000, 'Placa');
+insert into cucop (id_cucop, id_partida_especifica, id_partida_generica, id_concepto, id_capitulo, descripcion) values (22100356, 22104, 2210, 2200, 2000, 'Lácteos');
+insert into cucop (id_cucop, id_partida_especifica, id_partida_generica, id_concepto, id_capitulo, descripcion) values (22100369, 22104, 2210, 2200, 2000, 'Pimienta');
+insert into cucop (id_cucop, id_partida_especifica, id_partida_generica, id_concepto, id_capitulo, descripcion) values (24100185, 24101, 2410, 2400, 2000, 'Tierra negra');
+insert into cucop (id_cucop, id_partida_especifica, id_partida_generica, id_concepto, id_capitulo, descripcion) values (24600097, 24601, 2460, 2400, 2000, 'Luminaria');
+insert into cucop (id_cucop, id_partida_especifica, id_partida_generica, id_concepto, id_capitulo, descripcion) values (24800041, 24801, 2480, 2400, 2000, 'Árbol (ornamental)');
+insert into cucop (id_cucop, id_partida_especifica, id_partida_generica, id_concepto, id_capitulo, descripcion) values (24800044, 24801, 2480, 2400, 2000, 'Planta (ornamental)');
+insert into cucop (id_cucop, id_partida_especifica, id_partida_generica, id_concepto, id_capitulo, descripcion) values (24800052, 24801, 2480, 2400, 2000, 'Pañuelos desechables');
+insert into cucop (id_cucop, id_partida_especifica, id_partida_generica, id_concepto, id_capitulo, descripcion) values (25100045, 25101, 2510, 2500, 2000, 'Perfumes y cosméticos');
+insert into cucop (id_cucop, id_partida_especifica, id_partida_generica, id_concepto, id_capitulo, descripcion) values (26100024, 26102, 2610, 2600, 2000, 'Gasolina (vales)');
+insert into cucop (id_cucop, id_partida_especifica, id_partida_generica, id_concepto, id_capitulo, descripcion) values (33200001, 33200, 3320, 3300, 3000, 'Servicios de diseño');
+insert into cucop (id_cucop, id_partida_especifica, id_partida_generica, id_concepto, id_capitulo, descripcion) values (33200002, 33200, 3320, 3300, 3000, 'Servicios de arquitectura');
+insert into cucop (id_cucop, id_partida_especifica, id_partida_generica, id_concepto, id_capitulo, descripcion) values (33200003, 33200, 3320, 3300, 3000, 'Servicios de ingeniería');
+insert into cucop (id_cucop, id_partida_especifica, id_partida_generica, id_concepto, id_capitulo, descripcion) values (51300290, 51301, 5130, 5100, 5000, 'Polígrafo con estuche');
+insert into cucop (id_cucop, id_partida_especifica, id_partida_generica, id_concepto, id_capitulo, descripcion) values (51400001, 51400, 5140, 5100, 5000, 'Metales y Piedras Preciosas');
+insert into cucop (id_cucop, id_partida_especifica, id_partida_generica, id_concepto, id_capitulo, descripcion) values (51400002, 51400, 5140, 5100, 5000, 'Antigüedades y Otros Objetos de Arte');
+insert into cucop (id_cucop, id_partida_especifica, id_partida_generica, id_concepto, id_capitulo, descripcion) values (51900022, 51901, 5190, 5100, 5000, 'Asta bandera');
+insert into cucop (id_cucop, id_partida_especifica, id_partida_generica, id_concepto, id_capitulo, descripcion) values (51900119, 51901, 5190, 5100, 5000, 'Extinguidor  ');
+insert into cucop (id_cucop, id_partida_especifica, id_partida_generica, id_concepto, id_capitulo, descripcion) values (51900220, 51901, 5190, 5100, 5000, 'Portabanderas');
+insert into cucop (id_cucop, id_partida_especifica, id_partida_generica, id_concepto, id_capitulo, descripcion) values (53100343, 53101, 5310, 5300, 5000, 'Soporte metálico con tenazas');
+insert into cucop (id_cucop, id_partida_especifica, id_partida_generica, id_concepto, id_capitulo, descripcion) values (56200073, 56201, 5620, 5600, 5000, 'Calderas de tubos de agua de calefacción');
+insert into cucop (id_cucop, id_partida_especifica, id_partida_generica, id_concepto, id_capitulo, descripcion) values (57900001, 57900, 5790, 5700, 5000, 'Semen (animales vivos)');
+insert into cucop (id_cucop, id_partida_especifica, id_partida_generica, id_concepto, id_capitulo, descripcion) values (57900002, 57900, 5790, 5700, 5000, 'Activos Biológicos Cultivados');
+insert into cucop (id_cucop, id_partida_especifica, id_partida_generica, id_concepto, id_capitulo, descripcion) values (59200001, 59200, 5920, 5900, 5000, 'Derechos Patentados');
+insert into cucop (id_cucop, id_partida_especifica, id_partida_generica, id_concepto, id_capitulo, descripcion) values (59300001, 59300, 5930, 5900, 5000, 'Marcas');
+insert into cucop (id_cucop, id_partida_especifica, id_partida_generica, id_concepto, id_capitulo, descripcion) values (59700001, 59700, 5970, 5900, 5000, 'Licencias de uso programas de computo');
+insert into cucop (id_cucop, id_partida_especifica, id_partida_generica, id_concepto, id_capitulo, descripcion) values (59900001, 59900, 5990, 5900, 5000, 'Activos Intangibles No Producidos de Origen Natural');
