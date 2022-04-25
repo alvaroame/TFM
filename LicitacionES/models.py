@@ -17,6 +17,8 @@ NAMESPACES = {'xmlns': 'http://www.w3.org/2005/Atom',
 SEPARATOR = ' '
 
 logger = logging.getLogger(__name__)
+
+
 class Licitacion:
 
     def __init__(self, id):
@@ -47,9 +49,10 @@ class Licitacion:
             self.cpvs.append(cpv)
 
     def imprimir(self):
-        logger.info('LICITACION: %s %s %s %s %s %s %s %s %s %s %s %s', self.id, self.id_licitacion,self.link, self.titulo, self.objeto_contrato, self.numero_expediente,
-              self.organo_contratacion,  self.estatus, self.cpvs, self.fecha_actualizacion, self.fecha_eliminacion,
-              self.presupuesto_sin_imp)
+        logger.info('LICITACION: %s %s %s %s %s %s %s %s %s %s %s %s', self.id, self.id_licitacion, self.link,
+                    self.titulo, self.objeto_contrato, self.numero_expediente,
+                    self.organo_contratacion, self.estatus, self.cpvs, self.fecha_actualizacion, self.fecha_eliminacion,
+                    self.presupuesto_sin_imp)
 
 
 class LicitacionesParser:
@@ -65,7 +68,6 @@ class LicitacionesParser:
         self.siguente_archivo = self.__get_sig_archivo(root)
         self.__procesar_eliminadas(root)
         return self.__get_licitaciones(root)
-
 
     def __get_sig_archivo(self, root):
         for link in root.findall('xmlns:link', NAMESPACES):
@@ -99,7 +101,6 @@ class LicitacionesParser:
                 logger.info('Licitacion previamente procesada ID: %s', id_licitacion)
                 licitacion_procesada.imprimir()
         return licitaciones
-
 
     def __parsear_licitacion(self, licitacion_entry):
         id = licitacion_entry.find('xmlns:id', NAMESPACES).text

@@ -2,14 +2,15 @@
 # coding: iso-8859-15
 
 import psycopg2
-from config import config
-from parser import LicitacionesParser, Licitacion
+
+from configuration.config import config
+from models import LicitacionesParser
 from pathlib import Path
 import datetime
 import logging
 import sys
 
-log_file = "./execution" + datetime.datetime.now().strftime("%Y%m%d-%H-%M-%S") + '.log'
+log_file = "logs/parserMX" + datetime.datetime.now().strftime("%Y%m%d-%H-%M-%S") + '.log'
 logging.basicConfig(filename=log_file, encoding='utf-8', level=logging.DEBUG)
 
 
@@ -40,7 +41,7 @@ def insert_licitaciones(licitaciones):
                 cpvs = ";".join(licitacion.cpvs)
             if len(licitacion.cpvs) == 0:
                 logging.warning('ID: %s Estatus: %s Mensaje: No contiene CPVS', licitacion.id_licitacion,
-                             licitacion.estatus)
+                                licitacion.estatus)
             cur.execute(sql, (licitacion.id_licitacion, cpv, licitacion.id, licitacion.numero_expediente,
                               licitacion.estatus, licitacion.presupuesto_sin_imp_cantidad,
                               licitacion.presupuesto_sin_imp_moneda, licitacion.objeto_contrato,
@@ -59,7 +60,7 @@ def insert_licitaciones(licitaciones):
 
     return student_id
 
-if __name__ == '__main__':
+def main():
     directorio = sys.argv[1]
     archivo_principal = sys.argv[2]
 
@@ -74,6 +75,7 @@ if __name__ == '__main__':
         logging.info('Iniciando proceso')
         while archivo_procesar in archivos:
             logging.info('Procesando archivo: %s', archivo_procesar)
+            print('Procesando archivo:', archivo_procesar)
             licitaciones = parser.parse(archivo_procesar)
             insert_licitaciones(licitaciones)
             archivos.remove(archivo_procesar)
@@ -84,3 +86,7 @@ if __name__ == '__main__':
         logging.info('Proceso terminado con exito')
     else:
         logging.error('Se debe especificar el directorio a procesar y el archivo principal')
+
+
+if __name__ == '__main__':
+    main()
