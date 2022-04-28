@@ -10,13 +10,13 @@ import datetime
 import logging
 import sys
 
-log_file = "logs/parserMX" + datetime.datetime.now().strftime("%Y%m%d-%H-%M-%S") + '.log'
+log_file = "logs/parserES" + datetime.datetime.now().strftime("%Y%m%d-%H-%M-%S") + '.log'
 logging.basicConfig(filename=log_file, encoding='utf-8', level=logging.DEBUG)
 
 
 def insert_licitaciones(licitaciones):
     """ Insertar una licitacion en la tabla SQL """
-    sql = """INSERT INTO licitacion(id_licitacion, id_cpv, identificador, expediente, estatus, presupuesto, moneda, 
+    sql = """INSERT INTO licitacion_es(id_licitacion_es, id_cpv, identificador, expediente, estatus, presupuesto, moneda, 
     objeto, titulo, link, organo, cpvs, fecha_actualizacion, fecha_eliminacion)
              VALUES(%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s) ON CONFLICT DO NOTHING;"""
 

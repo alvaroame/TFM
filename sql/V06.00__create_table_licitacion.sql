@@ -3,9 +3,9 @@ SET default_tablespace = ts_licpub_data;
 SET default_with_oids = false;
 
 --Se crea tabla cpv
-CREATE TABLE if not exists licpub.licitacion
+CREATE TABLE if not exists licpub.licitacion_es
 (
-    id_licitacion integer NOT NULL,
+    id_licitacion_es integer NOT NULL,
     id_cpv integer NULL,
     identificador character varying(150) NOT NULL,
     expediente character varying(50) NOT NULL,
@@ -21,13 +21,13 @@ CREATE TABLE if not exists licpub.licitacion
     fecha_eliminacion timestamp with time zone NULL
 )TABLESPACE ts_licpub_data;
 
-ALTER TABLE licpub.licitacion OWNER TO licpub;
+ALTER TABLE licpub.licitacion_es OWNER TO licpub;
 
 SET default_tablespace = ts_licpub_idx;
 
-ALTER TABLE licpub.licitacion ADD CONSTRAINT licitacion_pkey PRIMARY KEY (id_licitacion)
+ALTER TABLE licpub.licitacion_es ADD CONSTRAINT licitacion_es_pkey PRIMARY KEY (id_licitacion_es)
 	USING INDEX TABLESPACE ts_licpub_idx;
 
-ALTER TABLE ONLY licpub.licitacion
-    ADD CONSTRAINT licitacion_fk FOREIGN KEY (id_cpv)
+ALTER TABLE ONLY licpub.licitacion_es
+    ADD CONSTRAINT licitacion_es_fk FOREIGN KEY (id_cpv)
     REFERENCES licpub.cpv(id_cpv) DEFERRABLE INITIALLY DEFERRED;
