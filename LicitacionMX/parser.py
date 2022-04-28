@@ -13,7 +13,7 @@ import requests
 from configuration import config
 from models import LicitacionMX
 
-log_file = "logs/parserES" + datetime.datetime.now().strftime("%Y%m%d-%H-%M-%S") + '.log'
+log_file = "logs/parserMX" + datetime.datetime.now().strftime("%Y%m%d-%H-%M-%S") + '.log'
 logging.basicConfig(filename=log_file, encoding='utf-8', level=logging.DEBUG)
 
 DATETIME_FORMAT = '%Y-%m-%dT%H:%M:%SZ'
