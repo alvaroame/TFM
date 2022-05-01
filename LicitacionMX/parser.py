@@ -6,6 +6,7 @@ import json
 import logging
 import time
 from pathlib import Path
+import re
 import sys
 import psycopg2
 import requests
@@ -101,18 +102,18 @@ def get_licitaciones_from_json_file(file_name):
         licitacion.id_publicacion = compiledRelease.get('id')
         licitacion.fecha = datetime.datetime.strptime(compiledRelease.get('date'), DATETIME_FORMAT)
         licitacion.codigo_expediente = tender.get('id')
-        licitacion.titulo = tender.get('title')
-        licitacion.descripcion = tender.get('description')
+        licitacion.titulo = re.sub('\s+', " ", tender.get('title')) if tender.get('title') else None
+        licitacion.descripcion = re.sub('\s+', " ", tender.get('description')) if tender.get('description') else None
         licitacion.estatus = tender.get('status')
 
         logging.info('Procesando licitacion: %s - %s',licitacion.ocid, licitacion.codigo_expediente)
         for partie in parties:
             if RAMO_ROLE in partie.get('roles', []):
                 licitacion.id_dependencia = partie.get('id')
-                licitacion.dependencia = partie.get('name')
+                licitacion.dependencia = re.sub('\s+', " ", partie.get('name')) if partie.get('name') else None
             if UC_ROLE in partie.get('roles', []):
                 licitacion.clave_uc = partie.get('id')
-                licitacion.nombre_uc = partie.get('name')
+                licitacion.nombre_uc = re.sub('\s+', " ", partie.get('name')) if partie.get('name') else None
 
         if contracts:
             for contract in contracts:
@@ -125,7 +126,7 @@ def get_licitaciones_from_json_file(file_name):
         if not licitacion.has_objeto_contrato():
             logging.warning('Licitacion sin objeto del contrato')
             if contracts and len(contracts) == 1:
-                licitacion.titulo = contracts[0].get('title')
+                licitacion.titulo = re.sub('\s+', " ", contracts[0].get('title')) if contracts[0].get('title') else None
 
         if not licitacion.has_buyer():
             logging.warning('Licitacion sin unidad compradora')
@@ -133,7 +134,7 @@ def get_licitaciones_from_json_file(file_name):
                 buyers = contracts[0].get('buyers')
                 if buyers:
                     licitacion.clave_uc = buyers[0].get('id')
-                    licitacion.nombre_uc = buyers[0].get('name')
+                    licitacion.nombre_uc = re.sub('\s+', " ", buyers[0].get('name')) if buyers[0].get('name') else None
 
         if not licitacion.has_cucops():
             logging.warning('Licitacion sin cucops')
